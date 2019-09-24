@@ -9,4 +9,5 @@ See: https://github.com/exane/not-gwent-online for high resolution images which 
 
 ## References
 This project makes use of the RapidJSON library to process JSON object files. https://github.com/miloyip/rapidjson
+Also makes use of the Google c++ testing library, googletest
 
