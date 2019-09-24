@@ -1,5 +1,8 @@
 # Research_Honors
-My Honors research project into creating an ai for the card game Gwent
+My honours research project into creating an ai for the card game Gwent.
+
+# Outcome
+I recieved my honours degree from the University of the Witwatersrand with distinction. 
 
 # Missing data
 I have removed the font and `images/` folder from the repo since these images are of the original gwent cards.
