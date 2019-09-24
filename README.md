@@ -3,8 +3,8 @@ My honours research project into creating an ai for the card game Gwent.
 
 # Resources
 - [Poster](https://github.com/TRex22/honours-research-2017-gwent/blob/master/Presentations/Innovation%20Day%20Presentation%20-%20BLUE.pdf)
-- [Presentation](https://github.com/TRex22/honours-research-2017-gwent/raw/master/Presentations/RAIL%20LAB%20Presentation%20GWENT%201.pdf)
-- [Report](https://github.com/TRex22/honours-research-2017-gwent/raw/master/Report/report.pdf)
+- [Presentation](https://github.com/TRex22/honours-research-2017-gwent/blob/master/Presentations/RAIL%20LAB%20Presentation%20GWENT%201.pdf)
+- [Report](https://github.com/TRex22/honours-research-2017-gwent/blob/master/Report/report.pdf)
 
 # Outcome
 I recieved my honours degree from the University of the Witwatersrand with distinction. 
