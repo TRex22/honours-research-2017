@@ -1,0 +1,70 @@
+Survey of AI Methods in the Card Game Gwent
+Jason Chalom 711985
+2017
+
+Running system checks...
+
+1. Loading decks...
+2. Deck Statistics...
+Deck: Northern Realm
+35 Cards.
+location counts: 3 agile, 17 close, 7 ranged, 8 siege.
+rule counts: 2 unit, 2 horn, 2 scorch, 2 frost
+2 fog, 2 rain, 2 clear, 2 medic, 2 decoy, 2 spy, 2 hero, 2 bond.
+---
+
+Deck: Nilfgaard
+38 Cards.
+location counts: 3 agile, 15 close, 12 ranged, 8 siege.
+rule counts: 2 unit, 2 horn, 2 scorch, 2 frost
+2 fog, 2 rain, 2 clear, 2 medic, 2 decoy, 2 spy, 2 hero, 2 bond.
+---
+
+3. Randomise deck...
+
+Not Shuffled Deck:
+
+======================
+
+| Avallac'h 0 3 || Philippa Eilhart 10 0 || Triss Merigold 7 0 || Cirilla Fiona Elen Riannon 15 0 || Geralt of Rivia 15 0 |
+======================
+
+
+Shuffled Deck:
+
+======================
+
+| Triss Merigold 7 0 || Avallac'h 0 3 || Cirilla Fiona Elen Riannon 15 0 || Geralt of Rivia 15 0 || Philippa Eilhart 10 0 |
+======================
+
+4. Player Info...
+5. Game State... (Assign Decks)
+
+Northern Deck:
+
+======================
+
+| Avallac'h 0 3 || Philippa Eilhart 10 0 || Triss Merigold 7 0 || Cirilla Fiona Elen Riannon 15 0 || Geralt of Rivia 15 0 || Yennefer of Vengerberg 7 0 || Esterad Thyssen 10 0 || Vernon Roche 10 0 || John Natalis 10 0 || Thaler 1 3 || Sigismund Dijkstra 4 3 || Prince Stennis 5 3 || Dandelion 2 0 || Zoltan Chivay 5 0 || Dun Banner Medic 5 0 || Vesemir 6 0 || Ves 5 0 || Blue Stripes Commando 4 0 || Blue Stripes Commando 4 0 || Blue Stripes Commando 4 0 || Crinfrid Reavers Dragon Hunter 5 0 || Crinfrid Reavers Dragon Hunter 5 0 || Crinfrid Reavers Dragon Hunter 5 0 || Keira Metz 5 0 || Catapult 8 0 || Catapult 8 0 || Siegfried of Denesle 5 0 || Trebuchet 6 0 || Trebuchet 6 0 || Biting Frost 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Clear Weather 0 0 || Impenetrable Fog 0 0 || Torrential Rain 0 0 |
+======================
+
+
+Nilfgaard Deck:
+
+======================
+
+| Cirilla Fiona Elen Riannon 15 0 || Geralt of Rivia 15 0 || Triss Merigold 7 0 || Avallac'h 0 3 || Letho of Gulet 10 0 || Tibor Eggebracht 10 0 || Yennefer of Vengerberg 7 0 || Morvran Voorhis 10 0 || Menno Coehoorn 10 0 || Shilard Fitz-Oesterlen 7 3 || Vattier De Rideaux 4 3 || Stefan Skellen 9 3 || Vesemir 6 0 || Zerrikanian Fire Scorpion 5 0 || Heavy Zerrikanian Fire Scorpion 10 0 || Dandelion 2 0 || Frangilla Vigo 6 0 || Etolian Auxiliary Archers 1 0 || Etolian Auxiliary Archers 1 0 || Black Infrantry Archer 10 0 || Black Infrantry Archer 10 0 || Siege Technician 0 0 || Zoltan Chivay 5 0 || Young Emissary 5 0 || Young Emissary 5 0 || Impera Brigade Guard 3 0 || Impera Brigade Guard 3 0 || Impera Brigade Guard 3 0 || Impera Brigade Guard 3 0 || Nausicaa Cavalry Rider 2 0 || Nausicaa Cavalry Rider 2 0 || Nausicaa Cavalry Rider 2 0 || Biting Frost 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Clear Weather 0 0 || Impenetrable Fog 0 0 || Torrential Rain 0 0 |
+======================
+
+6. Random Game Times...
+Iterations: 1 
+
+Times:
+MT: 0.002311 secs.
+rnd_fast: 0.000935 secs.
+rnd_xorshf: 0.002738 secs.
+rollout: 7.792429 secs.
+mcts: 6.546324 secs.
+mcts2: 7.640427 secs.
+Total Time: 21.985175 secs.
+
+

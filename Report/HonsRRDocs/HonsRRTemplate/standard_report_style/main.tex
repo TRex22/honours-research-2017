@@ -1,0 +1,209 @@
+% 
+\documentclass[11pt, a4paper, twoside]{book}
+\usepackage{amscd,amsfonts,amssymb,amstext,latexsym} 
+\usepackage{amsmath,amsthm,mathbbol,mathrsfs,stmaryrd} 
+\usepackage[english]{babel} 
+\usepackage{theoremref}
+\usepackage[pdftex]{graphicx} 
+\usepackage{tikz}
+\usepackage[left=1.1in,right =1in, ignoremp]{geometry}
+\usepackage{tabularx}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+
+\usepackage[square]{natbib}
+%\bibliographystyle{apalike}
+\bibpunct{[}{]}{;}{a}{}{}
+\usepackage{algorithmic}
+%\usepackage{setspace}
+\usepackage[ruled,noend,noline]{algorithm2e} 
+%\citestyle{harvard}
+%\usepackage{parskip}
+%\renewcommand{\bibfont}{\small}  
+\usetikzlibrary{automata,calc}
+\usepackage{tgtermes} 
+\usepackage{tocloft}
+%\usepackage{subfigure}
+\usepackage{url}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}
+\usepackage{caption}
+\usepackage{multirow,multicol} 
+\usepackage{enumerate}
+\usepackage{color}
+\usepackage{listings}
+\usepackage{verbatim}
+
+%\captionsetup[table]{singlelinecheck=off}
+%
+\newcommand{\captionfonts}{\small} 
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\makeatletter  % Allow the use of @ in command names
+\long\def\@makecaption#1#2{%
+  \vskip\abovecaptionskip
+  \sbox\@tempboxa{{\captionfonts #1: #2}}%
+  \ifdim \wd\@tempboxa >\hsize
+    {\captionfonts #1: #2\par}
+  \else
+    \hbox to\hsize{\hfil\box\@tempboxa\hfil}%
+  \fi
+  \vskip\belowcaptionskip}
+\makeatother   % Cancel the effect of \makeatletter
+\makeatletter
+\newcommand\xleftrightarrow[2][]{%
+  \ext@arrow 9999{\longleftrightarrowfill@}{#1}{#2}}
+\newcommand\longleftrightarrowfill@{%
+  \arrowfill@\leftarrow\relbar\rightarrow}
+\makeatother
+\lstset{ %
+language=C++,                % choose the language of the code
+basicstyle={\footnotesize\ttfamily},       % the size of the fonts that are used for the code
+backgroundcolor=\color{white},  % choose the background color. You must add \usepackage{color}
+showspaces=false,               % show spaces adding particular underscores
+aboveskip=6mm, 
+%belowskip=3mm, 
+numbers=none, numberfirstline=false, numberblanklines=false,
+numberstyle=\tiny\color{gray}, numbersep= 5pt, 
+showstringspaces=false,         % underline spaces within strings
+showtabs=false,                 % show tabs within strings adding particular underscores
+%frame=single,           % adds a frame around the code
+frame = tb, 
+tabsize=2,          % sets default tabsize to 2 spaces
+captionpos=b,           % sets the caption-position to bottom
+breaklines=true,        % sets automatic line breaking
+breakatwhitespace=false,    % sets if automatic breaks should only happen at whitespace
+escapeinside={\%*}{*)}          % if you want to add a comment within your code
+}
+%%%
+
+
+\makeatletter
+\newcommand\solidrule[1][1cm]{\rule{#1}{.4pt}}
+\newcommand\dashedrule{\mbox{%
+  \solidrule[2mm]\hspace{2mm}\solidrule[2mm]\hspace{2mm}\solidrule[2mm]\hspace{2mm}}}
+\newcommand{\rmnum}[1]{\romannumeral #1}
+\newcommand{\Rmnum}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+
+\newcommand{\argmin}{\operatornamewithlimits{argmin}}
+\newcommand{\argmax}{\operatornamewithlimits{argmax}}
+
+\titleformat{\chapter}[display]{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{0pt}{\huge}
+\titlespacing{\chapter}{0pt}{10pt}{20pt}
+\setlength{\textwidth}{16.8cm} 
+\setlength{\textheight}{22.4cm} 
+\setlength{\evensidemargin}{-4.6mm} 
+\setlength{\oddsidemargin}{-4.6mm} 
+%\setlength{\leftmargin}{0pt} 
+%\setlength{\rightmargin}{0pt} 
+%\setlength{\marginparwidth}{0pt} 
+%\setlength{\marginparsep}{0pt}
+%\addtolength{\marginparwidth}{-1in}
+\setlength{\topmargin}{0pt}
+\setlength{\footskip}{38pt}
+\setlength{\parskip}{18pt}
+\setlength{\parindent}{0pt}
+\advance\hoffset by -0mm  % A4 is narrower. 
+\linespread{1} 
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+\hbadness=10000
+\hfuzz=50pt
+%%
+\begin{document}
+\frontmatter
+\input{title_page.tex} 
+\pagestyle{plain}
+\pagenumbering{roman} 
+\titleformat{\section}[hang]{\normalfont\Large\bfseries\filcenter}{\thesection}{0pt}{}
+\section*{Declaration\\
+University of the Witwatersrand, Johannesburg\\
+School of Computer Science and Applied Mathematics\\
+SENATE PLAGIARISM POLICY}  
+\addcontentsline{toc}{section}{\numberline{}Declaration}
+
+I, INSERT YOUR NAME HERE, (Student number: INSERT YOUR STUDENT NUMBER HERE) am a student registered for 
+INSERT THE COURSE CODE HERE in the year INSERT THE ACADEMIC YEAR HERE.
+
+I hereby declare the following: 
+\begin{itemize}
+\item
+I am aware that plagiarism (the use of someone else's work without their permission and/or without acknowledging the original source) is wrong. 
+\item
+I confirm that ALL the work submitted for assessment for the above course is my own unaided work except where I have explicitly indicated otherwise. 
+\item
+I have followed the required conventions in referencing the 
+thoughts and ideas of others.
+\item
+I understand that the University of the Witwatersrand may take 
+disciplinary action against me if there is a belief that this in not my own unaided work or that I have failed to acknowledge the source of the ideas or words in my writing.  
+\end{itemize}
+\vskip 1cm
+\noindent
+\textbf{Signature}: 
+\hspace{2cm}
+\vskip 6mm
+\noindent
+Signed on \rule{3cm}{0.4pt} day of \rule{3cm}{0.4pt} , 2017 in Johannesburg.
+
+\newpage
+\input{abstract} 
+\newpage
+\input{acknowledge}
+\newpage
+\tableofcontents 
+\addcontentsline{toc}{chapter}{\listfigurename}
+\listoffigures 
+\addcontentsline{toc}{chapter}{\listtablename}
+\listoftables 
+\addcontentsline{toc}{chapter}{List of Algorithms}
+\listofalgorithms
+
+%%
+\mainmatter
+%\pagestyle{fancy}
+%\lhead{}
+%\chead{}
+%\renewcommand{\sectionmark}[1]{\rhead{\bfseries{\thesection \, #1}}}
+%\lfoot{}
+%\cfoot{\thepage}
+%\renewcommand{\headrulewidth}{0.4pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\rightmark}
+\fancyhead[RE,LO]{}
+%\renewcommand{\sectionmark}[1]{\chead{{\thesection \, #1}}}
+%\fancyhead[CE,CO]{\thesection}
+\fancyfoot[CE,CO]{\thepage}
+%\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\titleformat{\section}[hang]{\normalfont\Large\bfseries}{\thesection}{10pt}{}
+\pagenumbering{arabic}
+\input{ch1_intro}
+\input{ch2_survey} 
+\input{ch3_method}
+\input{ch4_results}
+\input{ch5_conclusion}
+\newpage 
+%\linespread{1.2} 
+%\addcontentsline{toc}{chapter}{\protect\numberline{}Appendix}
+%\appendix
+%\input{append.tex}
+\backmatter
+\pagestyle{plain} 
+
+%\linespread{1.5}
+%\bibliographystyle{abbrv}
+%\addcontentsline{toc}{chapter}{\protect\numberline{}Bibliography}
+\bibsep 1pt
+%\setlength{\bibspacing}{\baselineskip}
+%
+\refstepcounter{chapter}
+\addcontentsline{toc}{chapter}{\bibname}
+\bibliographystyle{apalike}
+%\bibliographystyle{plain}
+\bibliography{honRefs}
+%%
+\end{document} 
+

@@ -1,0 +1,86 @@
+==16883== Memcheck, a memory error detector
+==16883== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==16883== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==16883== Command: ./bin/game.out -run_game
+==16883== Parent PID: 12085
+==16883== 
+==16883== 
+==16883== Process terminating with default action of signal 2 (SIGINT)
+==16883==    at 0x4C32670: memcpy@@GLIBC_2.14 (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==16883==    by 0x4025E6: copy (char_traits.h:290)
+==16883==    by 0x4025E6: _S_copy (basic_string.h:299)
+==16883==    by 0x4025E6: _S_copy_chars (basic_string.h:341)
+==16883==    by 0x4025E6: void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char*>(char*, char*, std::forward_iterator_tag) [clone .isra.171] (basic_string.tcc:229)
+==16883==    by 0x418B7A: _M_construct_aux<char*> (basic_string.h:195)
+==16883==    by 0x418B7A: _M_construct<char*> (basic_string.h:214)
+==16883==    by 0x418B7A: basic_string (basic_string.h:400)
+==16883==    by 0x418B7A: Card (card.h:3)
+==16883==    by 0x418B7A: _Construct<Card, const Card&> (stl_construct.h:75)
+==16883==    by 0x418B7A: __uninit_copy<__gnu_cxx::__normal_iterator<const Card*, std::vector<Card> >, Card*> (stl_uninitialized.h:75)
+==16883==    by 0x418B7A: uninitialized_copy<__gnu_cxx::__normal_iterator<const Card*, std::vector<Card> >, Card*> (stl_uninitialized.h:126)
+==16883==    by 0x418B7A: __uninitialized_copy_a<__gnu_cxx::__normal_iterator<const Card*, std::vector<Card> >, Card*, Card> (stl_uninitialized.h:281)
+==16883==    by 0x418B7A: std::vector<Card, std::allocator<Card> >::vector(std::vector<Card, std::allocator<Card> > const&) (stl_vector.h:322)
+==16883==    by 0x4192D8: GameState::GameState(GameState const&) (in /home/trex22/stuff/work/Research_Honours/bin/game.out)
+==16883==    by 0x40E60E: playPlayer2(Node*) (MCTSPlayer.cpp:28)
+==16883==    by 0x40EA07: randomAction(Node*, int) (MCTSPlayer.cpp:51)
+==16883==    by 0x410647: MCTSPlayer(GameState, int, int) (MCTSPlayer.cpp:239)
+==16883==    by 0x4121F9: playPlayer1(GameState, bool, int) (gameFunctions.cpp:38)
+==16883==    by 0x415E10: run_game(bool, int, int) [clone .constprop.243] (main.cpp:104)
+==16883==    by 0x4174D5: process_args(int, char**) (main.cpp:598)
+==16883==    by 0x40231E: main (main.cpp:77)
+==16883== 
+==16883== HEAP SUMMARY:
+==16883==     in use at exit: 3,961,306 bytes in 41,286 blocks
+==16883==   total heap usage: 697,533 allocs, 656,247 frees, 63,832,622 bytes allocated
+==16883== 
+==16883== 35 bytes in 1 blocks are possibly lost in loss record 24 of 397
+==16883==    at 0x4C2E0EF: operator new(unsigned long) (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==16883==    by 0x4025CC: void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char*>(char*, char*, std::forward_iterator_tag) [clone .isra.171] (basic_string.tcc:223)
+==16883==    by 0x418B7A: _M_construct_aux<char*> (basic_string.h:195)
+==16883==    by 0x418B7A: _M_construct<char*> (basic_string.h:214)
+==16883==    by 0x418B7A: basic_string (basic_string.h:400)
+==16883==    by 0x418B7A: Card (card.h:3)
+==16883==    by 0x418B7A: _Construct<Card, const Card&> (stl_construct.h:75)
+==16883==    by 0x418B7A: __uninit_copy<__gnu_cxx::__normal_iterator<const Card*, std::vector<Card> >, Card*> (stl_uninitialized.h:75)
+==16883==    by 0x418B7A: uninitialized_copy<__gnu_cxx::__normal_iterator<const Card*, std::vector<Card> >, Card*> (stl_uninitialized.h:126)
+==16883==    by 0x418B7A: __uninitialized_copy_a<__gnu_cxx::__normal_iterator<const Card*, std::vector<Card> >, Card*, Card> (stl_uninitialized.h:281)
+==16883==    by 0x418B7A: std::vector<Card, std::allocator<Card> >::vector(std::vector<Card, std::allocator<Card> > const&) (stl_vector.h:322)
+==16883==    by 0x407A4F: CopyDeck (classFunctions.cpp:10)
+==16883==    by 0x407A4F: PlayerInfo::copy(PlayerInfo) (playerInfo.h:80)
+==16883==    by 0x408F49: GameState::copy(GameState) (gameState.h:107)
+==16883==    by 0x4091A5: Node::makeChild(Node*) (node.h:59)
+==16883==    by 0x409299: Node::Node(Node*) (node.h:32)
+==16883==    by 0x40E93B: randomAction(Node*, int) (MCTSPlayer.cpp:45)
+==16883==    by 0x410647: MCTSPlayer(GameState, int, int) (MCTSPlayer.cpp:239)
+==16883==    by 0x4121F9: playPlayer1(GameState, bool, int) (gameFunctions.cpp:38)
+==16883==    by 0x415E10: run_game(bool, int, int) [clone .constprop.243] (main.cpp:104)
+==16883==    by 0x4174D5: process_args(int, char**) (main.cpp:598)
+==16883== 
+==16883== 7,600 (6,160 direct, 1,440 indirect) bytes in 10 blocks are definitely lost in loss record 336 of 397
+==16883==    at 0x4C2E0EF: operator new(unsigned long) (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==16883==    by 0x41046E: MCTSPlayer(GameState, int, int) (MCTSPlayer.cpp:215)
+==16883==    by 0x4121F9: playPlayer1(GameState, bool, int) (gameFunctions.cpp:38)
+==16883==    by 0x415E10: run_game(bool, int, int) [clone .constprop.243] (main.cpp:104)
+==16883==    by 0x4174D5: process_args(int, char**) (main.cpp:598)
+==16883==    by 0x40231E: main (main.cpp:77)
+==16883== 
+==16883== 2,935,748 (4,928 direct, 2,930,820 indirect) bytes in 8 blocks are definitely lost in loss record 397 of 397
+==16883==    at 0x4C2E0EF: operator new(unsigned long) (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==16883==    by 0x40E92D: randomAction(Node*, int) (MCTSPlayer.cpp:45)
+==16883==    by 0x410647: MCTSPlayer(GameState, int, int) (MCTSPlayer.cpp:239)
+==16883==    by 0x4121F9: playPlayer1(GameState, bool, int) (gameFunctions.cpp:38)
+==16883==    by 0x415E10: run_game(bool, int, int) [clone .constprop.243] (main.cpp:104)
+==16883==    by 0x4174D5: process_args(int, char**) (main.cpp:598)
+==16883==    by 0x40231E: main (main.cpp:77)
+==16883== 
+==16883== LEAK SUMMARY:
+==16883==    definitely lost: 11,088 bytes in 18 blocks
+==16883==    indirectly lost: 2,932,260 bytes in 31,292 blocks
+==16883==      possibly lost: 35 bytes in 1 blocks
+==16883==    still reachable: 1,017,923 bytes in 9,975 blocks
+==16883==         suppressed: 0 bytes in 0 blocks
+==16883== Reachable blocks (those to which a pointer was found) are not shown.
+==16883== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==16883== 
+==16883== For counts of detected and suppressed errors, rerun with: -v
+==16883== ERROR SUMMARY: 3 errors from 3 contexts (suppressed: 0 from 0)

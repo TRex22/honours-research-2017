@@ -1,0 +1,105 @@
+Survey of AI Methods in the Card Game Gwent
+Jason Chalom 711985
+2017
+
+Current Round: 0
+Player 1 Plays: Keira Metz
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Player 2 Plays: Biting Frost
+Current Round: 0
+Player 1 Plays: Pass Round
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Player 2 Plays: Biting Frost
+Player 1 Wins round 0
+
+Current Round: 1
+Player 1 Plays: Vesemir
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Player 2 Plays: Biting Frost
+Current Round: 1
+Player 1 Plays: Thaler
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Player 2 Plays: Biting Frost
+Current Round: 1
+Player 1 Plays: Avallac'h
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Player 2 Plays: Biting Frost
+Current Round: 1
+Player 1 Plays: Crinfrid Reavers Dragon Hunter
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Player 2 Plays: Biting Frost
+Current Round: 1
+Player 1 Plays: Dandelion
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Player 2 Plays: Biting Frost
+Current Round: 1
+Player 1 Plays: Pass Round
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Invalid player id. (before card play)
+Player 2 Plays: Biting Frost
+Player 1 Wins round 1
+
+Player 1 Wins!

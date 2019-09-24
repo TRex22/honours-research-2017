@@ -1,0 +1,1022 @@
+start...
+1
+Survey of AI Methods in the Card Game Gwent
+Jason Chalom 711985
+2017
+
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Biting Frost 0 0 || Catapult 8 0 || Catapult 8 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Blue Stripes Commando 4 0 || Trebuchet 6 0 || Thaler 1 3 || Crinfrid Reavers Dragon Hunter 5 0 || Esterad Thyssen 10 0 || Crinfrid Reavers Dragon Hunter 5 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Cirilla Fiona Elen Riannon 15 0 || Yennefer of Vengerberg 7 0 || Biting Frost 0 0 || Geralt of Rivia 15 0 || Menno Coehoorn 10 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Clear Weather 0 0 || Clear Weather 0 0 || Clear Weather 0 0 || Nausicaa Cavalry Rider 2 0 || Black Infrantry Archer 10 0 || Siege Technician 0 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Crinfrid Reavers Dragon Hunter ap: 5
+Player 2 Plays: Cirilla Fiona Elen Riannon ap: 15
+
+Current Round: 1 P1: 5 P2: 15.
+Player 1 Plays: Commander's Horn ap: 0
+Player 2 Plays: Yennefer of Vengerberg ap: 7
+
+Current Round: 1 P1: 10 P2: 22.
+Player 1 Plays: Thaler ap: 1
+Player 2 Plays: Biting Frost ap: 0
+
+Current Round: 1 P1: 10 P2: 9.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Geralt of Rivia ap: 15
+
+Current Round: 1 P1: 11 P2: 10.
+Player 1 Plays: Trebuchet ap: 6
+Player 2 Plays: Menno Coehoorn ap: 10
+
+Current Round: 1 P1: 17 P2: 11.
+Player 1 Plays: Catapult ap: 8
+Player 2 Plays: Commander's Horn ap: 0
+
+Current Round: 1 P1: 25 P2: 14.
+Player 1 Plays: Siegfried of Denesle ap: 5
+Player 2 Plays: Clear Weather ap: 0
+
+Current Round: 1 P1: 33 P2: 88.
+Player 1 Plays: Biting Frost ap: 0
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 1 P1: 26 P2: 18.
+Player 1 Plays: Crinfrid Reavers Dragon Hunter ap: 5
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 1 P1: 56 P2: 28.
+Player 1 Plays: Catapult ap: 8
+Player 2 Plays: Siege Technician ap: 0
+
+Current Round: 1 P1: 80 P2: 28.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 1 P1: 81 P2: 28.
+Player 1 Plays: Esterad Thyssen ap: 10
+
+Current Round: 1 P1: 82 P2: 28.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Keira Metz ap: 5
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 2 P1: 5 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 2
+
+Player 1 Wins!
+Game Time: 74.5183 seconds.
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Crinfrid Reavers Dragon Hunter 5 0 || Geralt of Rivia 15 0 || Trebuchet 6 0 || Siegfried of Denesle 5 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Blue Stripes Commando 4 0 || Cirilla Fiona Elen Riannon 15 0 || Sigismund Dijkstra 4 3 || Blue Stripes Commando 4 0 || Torrential Rain 0 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Nausicaa Cavalry Rider 2 0 || Biting Frost 0 0 || Stefan Skellen 9 3 || Cirilla Fiona Elen Riannon 15 0 || Vesemir 6 0 || Nausicaa Cavalry Rider 2 0 || Tibor Eggebracht 10 0 || Dandelion 2 0 || Impera Brigade Guard 3 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Crinfrid Reavers Dragon Hunter ap: 5
+Player 2 Plays: Commander's Horn ap: 0
+
+Current Round: 1 P1: 5 P2: 0.
+Player 1 Plays: Geralt of Rivia ap: 15
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 1 P1: 20 P2: 6.
+Player 1 Plays: Trebuchet ap: 6
+Player 2 Plays: Biting Frost ap: 0
+
+Current Round: 1 P1: 12 P2: 1.
+Player 1 Plays: Siegfried of Denesle ap: 5
+Player 2 Plays: Tibor Eggebracht ap: 10
+
+Current Round: 1 P1: 13 P2: 11.
+Player 1 Plays: Commander's Horn ap: 0
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 1 P1: 15 P2: 12.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 1 P1: 17 P2: 12.
+Player 1 Plays: Cirilla Fiona Elen Riannon ap: 15
+
+Current Round: 1 P1: 19 P2: 12.
+Player 1 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 1 P1: 19 P2: 13.
+Player 1 Plays: Blue Stripes Commando ap: 4
+
+Current Round: 1 P1: 21 P2: 13.
+Player 1 Plays: Torrential Rain ap: 0
+
+Current Round: 1 P1: 16 P2: 15.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Biting Frost ap: 0
+Player 2 Plays: Cirilla Fiona Elen Riannon ap: 15
+
+Current Round: 2 P1: 0 P2: 1.
+Player 1 Plays: Clear Weather ap: 0
+Player 2 Plays: Stefan Skellen ap: 9
+
+Current Round: 2 P1: 9 P2: 15.
+Player 1 Plays: Crinfrid Reavers Dragon Hunter ap: 5
+Player 2 Plays: Commander's Horn ap: 0
+
+Current Round: 2 P1: 14 P2: 30.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 2 P1: 14 P2: 33.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 2 P1: 14 P2: 33.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 2 P1: 14 P2: 33.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Invalid move. (before card play) Card: Nausicaa Cavalry Rider
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 3 P1: 0 P2: 0.
+Player 2 Plays: Dandelion ap: 2
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Commander's Horn
+Player 2 Plays: Commander's Horn ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Tibor Eggebracht
+Player 2 Plays: Tibor Eggebracht ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 3 P1: 0 P2: 4.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 4.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 4.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 3
+
+Player 2 Wins!
+Game Time: 86.5688 seconds.
+Avg Winner: 1.5
+2
+Survey of AI Methods in the Card Game Gwent
+Jason Chalom 711985
+2017
+
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Biting Frost 0 0 || Cirilla Fiona Elen Riannon 15 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Thaler 1 3 || Esterad Thyssen 10 0 || Sigismund Dijkstra 4 3 || Triss Merigold 7 0 || Vesemir 6 0 || John Natalis 10 0 || Keira Metz 5 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Morvran Voorhis 10 0 || Clear Weather 0 0 || Clear Weather 0 0 || Clear Weather 0 0 || Vattier De Rideaux 4 3 || Impera Brigade Guard 3 0 || Cirilla Fiona Elen Riannon 15 0 || Letho of Gulet 10 0 || Stefan Skellen 9 3 || Heavy Zerrikanian Fire Scorpion 10 0 || Young Emissary 5 0 || Young Emissary 5 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 1 P1: 0 P2: 10.
+Player 2 Plays: Clear Weather ap: 0
+
+Current Round: 1 P1: 0 P2: 10.
+Player 2 Plays: Vattier De Rideaux ap: 4
+
+Current Round: 1 P1: 4 P2: 10.
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 1 P1: 4 P2: 13.
+Player 2 Plays: Cirilla Fiona Elen Riannon ap: 15
+
+Current Round: 1 P1: 4 P2: 28.
+Player 2 Plays: Letho of Gulet ap: 10
+
+Current Round: 1 P1: 4 P2: 38.
+Player 2 Plays: Stefan Skellen ap: 9
+
+Current Round: 1 P1: 13 P2: 38.
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 1 P1: 13 P2: 48.
+Player 2 Plays: Young Emissary ap: 5
+
+Current Round: 1 P1: 13 P2: 53.
+Player 2 Plays: Young Emissary ap: 5
+
+Current Round: 1 P1: 13 P2: 68.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Keira Metz ap: 5
+Player 2 Plays: Siege Technician ap: 0
+Player 2 Plays: Cirilla Fiona Elen Riannon ap: 15
+
+Current Round: 2 P1: 5 P2: 15.
+Player 1 Plays: Sigismund Dijkstra ap: 4
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 2 P1: 5 P2: 29.
+Player 1 Plays: Commander's Horn ap: 0
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 2 P1: 10 P2: 35.
+Player 1 Plays: Esterad Thyssen ap: 10
+Player 2 Plays: Impenetrable Fog ap: 0
+
+Current Round: 2 P1: 14 P2: 26.
+Player 1 Plays: John Natalis ap: 10
+Player 2 Plays: Zoltan Chivay ap: 5
+
+Current Round: 2 P1: 24 P2: 31.
+Player 1 Plays: Ves ap: 5
+Player 2 Plays: Etolian Auxiliary Archers ap: 1
+Player 2 Plays: Letho of Gulet ap: 10
+
+Current Round: 2 P1: 29 P2: 42.
+Player 1 Plays: Triss Merigold ap: 7
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 2 P1: 36 P2: 42.
+Player 1 Plays: Dandelion ap: 2
+
+Current Round: 2 P1: 61 P2: 42.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Thaler ap: 1
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 3 P1: 0 P2: 1.
+Player 1 Plays: Biting Frost ap: 0
+
+Current Round: 3 P1: 0 P2: 1.
+Player 1 Plays: Clear Weather ap: 0
+
+Current Round: 3 P1: 0 P2: 1.
+Player 1 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 6 P2: 1.
+Player 1 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 6 P2: 1.
+Player 1 Plays: Trebuchet ap: 6
+
+Current Round: 3 P1: 12 P2: 1.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 3
+
+Player 1 Wins!
+Game Time: 83.2828 seconds.
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Trebuchet 6 0 || Blue Stripes Commando 4 0 || Keira Metz 5 0 || Geralt of Rivia 15 0 || Biting Frost 0 0 || Sigismund Dijkstra 4 3 || Dun Banner Medic 5 0 || Dandelion 2 0 || Vesemir 6 0 || Blue Stripes Commando 4 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Young Emissary 5 0 || Cirilla Fiona Elen Riannon 15 0 || Dandelion 2 0 || Young Emissary 5 0 || Etolian Auxiliary Archers 1 0 || Impenetrable Fog 0 0 || Heavy Zerrikanian Fire Scorpion 10 0 || Vesemir 6 0 || Zoltan Chivay 5 0 || Triss Merigold 7 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Trebuchet ap: 6
+Player 2 Plays: Young Emissary ap: 5
+
+Current Round: 1 P1: 6 P2: 5.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Dandelion ap: 2
+
+Current Round: 1 P1: 10 P2: 5.
+Player 1 Plays: Keira Metz ap: 5
+Player 2 Plays: Zoltan Chivay ap: 5
+
+Current Round: 1 P1: 15 P2: 15.
+Player 1 Plays: Geralt of Rivia ap: 15
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 1 P1: 30 P2: 15.
+Player 1 Plays: Biting Frost ap: 0
+
+Current Round: 1 P1: 13 P2: 9.
+Player 1 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 1 P1: 13 P2: 11.
+Player 1 Plays: Dun Banner Medic ap: 5
+
+Current Round: 1 P1: 18 P2: 11.
+Player 1 Plays: Dandelion ap: 2
+
+Current Round: 1 P1: 20 P2: 11.
+Player 1 Plays: Vesemir ap: 6
+
+Current Round: 1 P1: 22 P2: 11.
+Player 1 Plays: Blue Stripes Commando ap: 4
+
+Current Round: 1 P1: 24 P2: 11.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Invalid move. (before card play) Card: Zoltan Chivay
+Player 2 Plays: Zoltan Chivay ap: 5
+
+Current Round: 2 P1: 1 P2: 0.
+Player 1 Plays: Crinfrid Reavers Dragon Hunter ap: 5
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 2 P1: 6 P2: 10.
+Player 1 Plays: Cirilla Fiona Elen Riannon ap: 15
+Player 2 Plays: Impenetrable Fog ap: 0
+
+Current Round: 2 P1: 3 P2: 10.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Cirilla Fiona Elen Riannon ap: 15
+
+Current Round: 2 P1: 3 P2: 11.
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 2 P1: 3 P2: 12.
+Player 2 Plays: Triss Merigold ap: 7
+
+Current Round: 2 P1: 3 P2: 19.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Invalid move. (before card play) Card: Young Emissary
+Player 2 Plays: Young Emissary ap: 5
+
+Current Round: 3 P1: 0 P2: 0.
+Player 2 Plays: Young Emissary ap: 5
+
+Current Round: 3 P1: 0 P2: 5.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 3 P1: 0 P2: 5.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 3
+
+Player 2 Wins!
+Game Time: 63.0627 seconds.
+Avg Winner: 1.5
+3
+Survey of AI Methods in the Card Game Gwent
+Jason Chalom 711985
+2017
+
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Yennefer of Vengerberg 7 0 || Zoltan Chivay 5 0 || Dandelion 2 0 || Geralt of Rivia 15 0 || Catapult 8 0 || Trebuchet 6 0 || Crinfrid Reavers Dragon Hunter 5 0 || Ves 5 0 || Triss Merigold 7 0 || Clear Weather 0 0 || Clear Weather 0 0 || Clear Weather 0 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Impenetrable Fog 0 0 || Etolian Auxiliary Archers 1 0 || Clear Weather 0 0 || Clear Weather 0 0 || Clear Weather 0 0 || Vesemir 6 0 || Siege Technician 0 0 || Torrential Rain 0 0 || Triss Merigold 7 0 || Nausicaa Cavalry Rider 2 0 || Impera Brigade Guard 3 0 || Nausicaa Cavalry Rider 2 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Catapult ap: 8
+Player 2 Plays: Impenetrable Fog ap: 0
+
+Current Round: 1 P1: 8 P2: 0.
+Player 1 Plays: Triss Merigold ap: 7
+Player 2 Plays: Etolian Auxiliary Archers ap: 1
+
+Current Round: 1 P1: 15 P2: 1.
+Player 1 Plays: Clear Weather ap: 0
+Player 2 Plays: Clear Weather ap: 0
+
+Current Round: 1 P1: 15 P2: 1.
+Player 1 Plays: Ves ap: 5
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 1 P1: 20 P2: 7.
+Player 1 Plays: Crinfrid Reavers Dragon Hunter ap: 5
+Player 2 Plays: Siege Technician ap: 0
+
+Current Round: 1 P1: 25 P2: 7.
+Player 1 Plays: Trebuchet ap: 6
+Player 2 Plays: Torrential Rain ap: 0
+
+Current Round: 1 P1: 13 P2: 8.
+Player 1 Plays: Yennefer of Vengerberg ap: 7
+Player 2 Plays: Triss Merigold ap: 7
+
+Current Round: 1 P1: 20 P2: 9.
+Player 1 Plays: Dandelion ap: 2
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 1 P1: 25 P2: 11.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 1 P1: 25 P2: 14.
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 1 P1: 25 P2: 20.
+Player 2 Plays: Pass Round ap: 0
+Player 1 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Pass Round ap: 0
+Round draw for round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Geralt of Rivia ap: 15
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 3 P1: 15 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 3
+
+Player 1 Wins!
+Game Time: 60.2658 seconds.
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Yennefer of Vengerberg 7 0 || Keira Metz 5 0 || Catapult 8 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Sigismund Dijkstra 4 3 || Avallac'h 0 3 || Ves 5 0 || Dandelion 2 0 || Dun Banner Medic 5 0 || Impenetrable Fog 0 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Geralt of Rivia 15 0 || Zoltan Chivay 5 0 || Biting Frost 0 0 || Black Infrantry Archer 10 0 || Morvran Voorhis 10 0 || Siege Technician 0 0 || Letho of Gulet 10 0 || Yennefer of Vengerberg 7 0 || Tibor Eggebracht 10 0 || Nausicaa Cavalry Rider 2 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Yennefer of Vengerberg ap: 7
+Player 2 Plays: Tibor Eggebracht ap: 10
+
+Current Round: 1 P1: 7 P2: 10.
+Player 1 Plays: Keira Metz ap: 5
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 1 P1: 12 P2: 20.
+Player 1 Plays: Catapult ap: 8
+Player 2 Plays: Geralt of Rivia ap: 15
+
+Current Round: 1 P1: 20 P2: 35.
+Player 1 Plays: Commander's Horn ap: 0
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 1 P1: 20 P2: 35.
+Player 1 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 1 P1: 20 P2: 39.
+Player 1 Plays: Avallac'h ap: 0
+
+Current Round: 1 P1: 20 P2: 39.
+Player 1 Plays: Ves ap: 5
+
+Current Round: 1 P1: 30 P2: 39.
+Player 1 Plays: Dandelion ap: 2
+
+Current Round: 1 P1: 30 P2: 39.
+Player 1 Plays: Dun Banner Medic ap: 5
+
+Current Round: 1 P1: 35 P2: 39.
+Player 1 Plays: Impenetrable Fog ap: 0
+
+Current Round: 1 P1: 25 P2: 21.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Vernon Roche ap: 10
+Invalid move. (before card play) Card: Geralt of Rivia
+Player 2 Plays: Geralt of Rivia ap: 15
+
+Current Round: 2 P1: 10 P2: 0.
+Player 1 Plays: Cirilla Fiona Elen Riannon ap: 15
+Player 2 Plays: Biting Frost ap: 0
+
+Current Round: 2 P1: 2 P2: 0.
+Player 1 Plays: Triss Merigold ap: 7
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 2 P1: 9 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 2 P1: 9 P2: 0.
+Player 2 Plays: Letho of Gulet ap: 10
+
+Current Round: 2 P1: 9 P2: 1.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 2 P1: 9 P2: 1.
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 2 P1: 9 P2: 11.
+Invalid move. (before card play) Card: Geralt of Rivia
+Player 2 Plays: Geralt of Rivia ap: 15
+
+Current Round: 2 P1: 9 P2: 11.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 2 P1: 9 P2: 11.
+Player 2 Plays: Zoltan Chivay ap: 5
+
+Current Round: 2 P1: 9 P2: 12.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Invalid move. (before card play) Card: Zoltan Chivay
+Player 2 Plays: Zoltan Chivay ap: 5
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Zoltan Chivay
+Player 2 Plays: Zoltan Chivay ap: 5
+
+Current Round: 3 P1: 0 P2: 0.
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 3 P1: 0 P2: 1.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 1.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 1.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 1.
+Invalid move. (before card play) Card: Zoltan Chivay
+Player 2 Plays: Zoltan Chivay ap: 5
+
+Current Round: 3 P1: 0 P2: 1.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 3 P1: 0 P2: 1.
+Invalid move. (before card play) Card: Tibor Eggebracht
+Player 2 Plays: Tibor Eggebracht ap: 10
+
+Current Round: 3 P1: 0 P2: 1.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 3
+
+Player 2 Wins!
+Game Time: 94.324 seconds.
+Avg Winner: 1.5
+4
+Survey of AI Methods in the Card Game Gwent
+Jason Chalom 711985
+2017
+
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Thaler 1 3 || Triss Merigold 7 0 || John Natalis 10 0 || Blue Stripes Commando 4 0 || Torrential Rain 0 0 || Keira Metz 5 0 || Catapult 8 0 || Catapult 8 0 || Prince Stennis 5 3 || Vesemir 6 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Avallac'h 0 3 || Tibor Eggebracht 10 0 || Frangilla Vigo 6 0 || Impenetrable Fog 0 0 || Impera Brigade Guard 3 0 || Morvran Voorhis 10 0 || Etolian Auxiliary Archers 1 0 || Menno Coehoorn 10 0 || Yennefer of Vengerberg 7 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Thaler ap: 1
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 1 P1: 0 P2: 1.
+Player 1 Plays: Commander's Horn ap: 0
+Player 2 Plays: Tibor Eggebracht ap: 10
+
+Current Round: 1 P1: 0 P2: 11.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 1 P1: 0 P2: 17.
+Player 2 Plays: Impenetrable Fog ap: 0
+
+Current Round: 1 P1: 2 P2: 3.
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 1 P1: 2 P2: 4.
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 1 P1: 2 P2: 14.
+Player 2 Plays: Etolian Auxiliary Archers ap: 1
+
+Current Round: 1 P1: 2 P2: 15.
+Player 2 Plays: Menno Coehoorn ap: 10
+
+Current Round: 1 P1: 2 P2: 25.
+Player 2 Plays: Yennefer of Vengerberg ap: 7
+
+Current Round: 1 P1: 2 P2: 26.
+Player 2 Plays: Commander's Horn ap: 0
+
+Current Round: 1 P1: 2 P2: 36.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Triss Merigold ap: 7
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 2 P1: 7 P2: 0.
+Player 1 Plays: Avallac'h ap: 0
+
+Current Round: 2 P1: 7 P2: 0.
+Player 1 Plays: Keira Metz ap: 5
+
+Current Round: 2 P1: 8 P2: 0.
+Player 1 Plays: Blue Stripes Commando ap: 4
+
+Current Round: 2 P1: 12 P2: 0.
+Player 1 Plays: Biting Frost ap: 0
+
+Current Round: 2 P1: 10 P2: 0.
+Player 1 Plays: Catapult ap: 8
+
+Current Round: 2 P1: 18 P2: 0.
+Player 1 Plays: Catapult ap: 8
+
+Current Round: 2 P1: 42 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Torrential Rain ap: 0
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 1 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 3
+
+Player 1 Wins!
+Game Time: 64.5034 seconds.
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Dun Banner Medic 5 0 || Clear Weather 0 0 || Clear Weather 0 0 || Clear Weather 0 0 || Triss Merigold 7 0 || John Natalis 10 0 || Sigismund Dijkstra 4 3 || Yennefer of Vengerberg 7 0 || Biting Frost 0 0 || Thaler 1 3 || Crinfrid Reavers Dragon Hunter 5 0 || Blue Stripes Commando 4 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Morvran Voorhis 10 0 || Torrential Rain 0 0 || Heavy Zerrikanian Fire Scorpion 10 0 || Shilard Fitz-Oesterlen 7 3 || Zoltan Chivay 5 0 || Impera Brigade Guard 3 0 || Black Infrantry Archer 10 0 || Nausicaa Cavalry Rider 2 0 || Impera Brigade Guard 3 0 || Nausicaa Cavalry Rider 2 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Dun Banner Medic ap: 5
+Player 2 Plays: Zoltan Chivay ap: 5
+
+Current Round: 1 P1: 5 P2: 5.
+Player 1 Plays: Clear Weather ap: 0
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 1 P1: 5 P2: 5.
+Player 1 Plays: Triss Merigold ap: 7
+
+Current Round: 1 P1: 12 P2: 5.
+Player 1 Plays: John Natalis ap: 10
+
+Current Round: 1 P1: 22 P2: 5.
+Player 1 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 1 P1: 22 P2: 9.
+Player 1 Plays: Yennefer of Vengerberg ap: 7
+
+Current Round: 1 P1: 29 P2: 9.
+Player 1 Plays: Biting Frost ap: 0
+
+Current Round: 1 P1: 20 P2: 2.
+Player 1 Plays: Thaler ap: 1
+
+Current Round: 1 P1: 20 P2: 3.
+Player 1 Plays: Crinfrid Reavers Dragon Hunter ap: 5
+
+Current Round: 1 P1: 25 P2: 3.
+Player 1 Plays: Blue Stripes Commando ap: 4
+
+Current Round: 1 P1: 26 P2: 3.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Trebuchet ap: 6
+Player 2 Plays: Shilard Fitz-Oesterlen ap: 7
+
+Current Round: 2 P1: 7 P2: 0.
+Player 1 Plays: Avallac'h ap: 0
+Player 2 Plays: Torrential Rain ap: 0
+
+Current Round: 2 P1: 3 P2: 0.
+Player 1 Plays: Crinfrid Reavers Dragon Hunter ap: 5
+Player 2 Plays: Triss Merigold ap: 7
+
+Current Round: 2 P1: 8 P2: 1.
+Player 1 Plays: Cirilla Fiona Elen Riannon ap: 15
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 2 P1: 9 P2: 11.
+Player 1 Plays: Commander's Horn ap: 0
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 2 P1: 12 P2: 14.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 2 P1: 12 P2: 23.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 1.
+Invalid move. (before card play) Card: Zoltan Chivay
+Player 2 Plays: Zoltan Chivay ap: 5
+
+Current Round: 3 P1: 0 P2: 1.
+Player 2 Plays: Clear Weather ap: 0
+
+Current Round: 3 P1: 0 P2: 10.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 3
+
+Player 2 Wins!
+Game Time: 68.0488 seconds.
+Avg Winner: 1.5
+5
+Survey of AI Methods in the Card Game Gwent
+Jason Chalom 711985
+2017
+
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Yennefer of Vengerberg 7 0 || Trebuchet 6 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Triss Merigold 7 0 || Torrential Rain 0 0 || Cirilla Fiona Elen Riannon 15 0 || Blue Stripes Commando 4 0 || Blue Stripes Commando 4 0 || Biting Frost 0 0 || Ves 5 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Impera Brigade Guard 3 0 || Avallac'h 0 3 || Morvran Voorhis 10 0 || Frangilla Vigo 6 0 || Nausicaa Cavalry Rider 2 0 || Nausicaa Cavalry Rider 2 0 || Torrential Rain 0 0 || Cirilla Fiona Elen Riannon 15 0 || Triss Merigold 7 0 || Zoltan Chivay 5 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Biting Frost ap: 0
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 1 P1: 0 P2: 3.
+Player 1 Plays: Ves ap: 5
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 1 P1: 1 P2: 4.
+Player 1 Plays: Commander's Horn ap: 0
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 1 P1: 2 P2: 14.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 1 P1: 4 P2: 20.
+Player 1 Plays: Torrential Rain ap: 0
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 1 P1: 4 P2: 12.
+Player 1 Plays: Yennefer of Vengerberg ap: 7
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 1 P1: 11 P2: 13.
+Player 1 Plays: Triss Merigold ap: 7
+Player 2 Plays: Torrential Rain ap: 0
+
+Current Round: 1 P1: 12 P2: 13.
+Player 1 Plays: Cirilla Fiona Elen Riannon ap: 15
+Player 2 Plays: Cirilla Fiona Elen Riannon ap: 15
+
+Current Round: 1 P1: 14 P2: 14.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Triss Merigold ap: 7
+
+Current Round: 1 P1: 16 P2: 15.
+Player 1 Plays: Trebuchet ap: 6
+Player 2 Plays: Zoltan Chivay ap: 5
+
+Current Round: 1 P1: 17 P2: 16.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Pass Round ap: 0
+Player 1 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Pass Round ap: 0
+Round draw for round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Pass Round ap: 0
+Round draw for round 3
+
+Player 1 Wins!
+Game Time: 60.6106 seconds.
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Torrential Rain 0 0 || Crinfrid Reavers Dragon Hunter 5 0 || Keira Metz 5 0 || Catapult 8 0 || Blue Stripes Commando 4 0 || Blue Stripes Commando 4 0 || Yennefer of Vengerberg 7 0 || Dun Banner Medic 5 0 || Thaler 1 3 || Siegfried of Denesle 5 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Siege Technician 0 0 || Triss Merigold 7 0 || Young Emissary 5 0 || Frangilla Vigo 6 0 || Nausicaa Cavalry Rider 2 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Zoltan Chivay 5 0 || Biting Frost 0 0 || Impera Brigade Guard 3 0 || Menno Coehoorn 10 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Torrential Rain ap: 0
+Player 2 Plays: Biting Frost ap: 0
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Crinfrid Reavers Dragon Hunter ap: 5
+Player 2 Plays: Young Emissary ap: 5
+
+Current Round: 1 P1: 5 P2: 1.
+Player 1 Plays: Keira Metz ap: 5
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 1 P1: 10 P2: 4.
+Player 1 Plays: Catapult ap: 8
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 1 P1: 11 P2: 5.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Commander's Horn ap: 0
+
+Current Round: 1 P1: 12 P2: 6.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Siege Technician ap: 0
+
+Current Round: 1 P1: 13 P2: 7.
+Player 1 Plays: Yennefer of Vengerberg ap: 7
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 1 P1: 20 P2: 7.
+Player 1 Plays: Dun Banner Medic ap: 5
+
+Current Round: 1 P1: 21 P2: 7.
+Player 1 Plays: Thaler ap: 1
+
+Current Round: 1 P1: 21 P2: 8.
+Player 1 Plays: Siegfried of Denesle ap: 5
+
+Current Round: 1 P1: 22 P2: 8.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Esterad Thyssen ap: 10
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 2 P1: 1 P2: 0.
+Player 1 Plays: Trebuchet ap: 6
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 2 P1: 2 P2: 0.
+Player 1 Plays: Avallac'h ap: 0
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 2 P1: 3 P2: 6.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Triss Merigold ap: 7
+
+Current Round: 3 P1: 0 P2: 1.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 3
+
+Player 2 Wins!
+Game Time: 63.1533 seconds.
+Avg Winner: 1.5

@@ -1,0 +1,112 @@
+% 
+\documentclass[12pt]{article}
+%\usepackage{amscd,amsfonts,amssymb,amstext,latexsym} 
+\usepackage{amsmath,mathbbol,mathrsfs,stmaryrd, mathtools} 
+%\usepackage{mathbbol,mathrsfs,stmaryrd}
+\usepackage {algorithm2e} 
+\usepackage {enumerate}
+\usepackage{url}
+%\usepackage {algpseudocode}  
+\usepackage{graphics} 
+\usepackage{tikz}
+\usepackage[square]{natbib}
+%\citestyle{nature} 
+\usetikzlibrary{automata,calc}
+%\usepackage{tgtermes} 
+\usepackage{listings}
+\usepackage{mathptmx}
+\usepackage{fancyhdr}
+\usepackage{verbatim}
+\lstset{ %
+language=C++,                % choose the language of the code
+basicstyle={\ttfamily},       % the size of the fonts that are used for the code
+backgroundcolor=\color{white},  % choose the background color. You must add \usepackage{color}
+showspaces=false,               % show spaces adding particular underscores
+aboveskip=6mm, 
+%belowskip=3mm, 
+numbers=none, numberfirstline=false, numberblanklines=false,
+numberstyle=\tiny\color{gray}, numbersep= 5pt, 
+showstringspaces=false,         % underline spaces within strings
+showtabs=false,                 % show tabs within strings adding particular underscores
+%frame=single,           % adds a frame around the code
+frame = tb, 
+tabsize=2,          % sets default tabsize to 2 spaces
+captionpos=b,           % sets the caption-position to bottom
+breaklines=true,        % sets automatic line breaking
+breakatwhitespace=false,    % sets if automatic breaks should only happen at whitespace
+escapeinside={\%*}{*)}          % if you want to add a comment within your code
+}
+%\graphicspath{{/media/hairong-wang/KINGSTON/courses/HPC2016/}}
+\graphicspath{{/media/hrwang/KINGSTON/courses/HPC2016/}}
+% 
+
+
+% 
+\textwidth=16.8cm 
+\textheight=22.6cm 
+\evensidemargin 0pt 
+\oddsidemargin 0pt 
+\leftmargin 0pt 
+\rightmargin 0pt 
+\setlength{\topmargin}{0pt} 
+%\setlength{\footskip}{50pt}
+\linespread{1} 
+% 
+%\providecommand*{\bibname}{}
+%renewcommand*{\bibname}{} 
+%\bibname{References}
+%\providecommand*{\chaptername}{} 
+%\renewcommand*{\chaptername}{} 
+%\chaptername{}
+
+
+
+\makeatletter
+\newcommand\solidrule[1][1cm]{\rule{#1}{.4pt}}
+\newcommand\dashedrule{\mbox{%
+  \solidrule[2mm]\hspace{2mm}\solidrule[2mm]\hspace{2mm}\solidrule[2mm]\hspace{2mm}}}
+\newcommand{\rmnum}[1]{\romannumeral #1}
+\newcommand{\Rmnum}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+
+\begin{document}
+
+%
+\title{Declaration\\
+University of the Witwatersrand, Johannesburg\\
+School of \dashedrule\dashedrule\dashedrule\dashedrule\dashedrule
+\dashedrule\dashedrule\dashedrule\\
+SENATE PLAGIARISM POLICY}
+\author{} 
+%	hairongwng@gmail.com\\[4mm]}
+\date{} 
+\maketitle 
+\thispagestyle{empty}
+%\vskip -10pt
+%\pagenumbering{roman}
+%\newpage
+%\pagenumbering{arabic} 
+\noindent
+I, \dashedrule\dashedrule\dashedrule\dashedrule\dashedrule\dashedrule\dashedrule, (Student number: \dashedrule\dashedrule\dashedrule\dashedrule) am a student registered for 
+\dashedrule\dashedrule\dashedrule\dashedrule\dashedrule\dashedrule in the year \dashedrule\dashedrule. 
+
+I hereby declare the following: 
+\begin{itemize}
+\item
+I am aware that plagiarism (the use of someone else's work without their permission and/or without acknowledging the original source) is wrong. 
+\item
+I confirm that ALL the work submitted for assessment for the above course is my own unaided work except where I have explicitly indicated otherwise. 
+\item
+I have followed the required conventions in referencing the 
+thoughts and ideas of others.
+\item
+I understand that the University of the Witwatersrand may take 
+disciplinary action against me if there is a belief that this in not my own unaided work or that I have failed to acknowledge the source of the ideas or words in my writing.  
+\end{itemize}
+\vskip 1cm
+\textbf{Signature}: \dashedrule\dashedrule\dashedrule\dashedrule
+\hspace{2cm}
+\textbf{Date}: \dashedrule\dashedrule\dashedrule\dashedrule 
+%
+\end{document} 
+

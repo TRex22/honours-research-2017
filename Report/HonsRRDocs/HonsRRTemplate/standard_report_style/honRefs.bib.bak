@@ -1,0 +1,385 @@
+% This file was created with JabRef 2.10b2.
+% Encoding: UTF-8
+
+
+@Article{Agrawal1993,
+  Title                    = {Mining Association Rules Between Sets of Items in Large Databases},
+  Author                   = {Agrawal, Rakesh and Imieli\'{n}ski, Tomasz and Swami, Arun},
+  Journal                  = {SIGMOD Rec.},
+  Year                     = {1993},
+
+  Month                    = {jun},
+  Number                   = {2},
+  Pages                    = {207--216},
+  Volume                   = {22},
+
+  Doi                      = {10.1145/170036.170072},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07},
+  Url                      = {http://doi.acm.org/10.1145/170036.170072}
+}
+
+@Article{Agrawal1996,
+  Title                    = {Parallel mining of association rules},
+  Author                   = {R. Agrawal and J. C. Shafer},
+  Journal                  = {IEEE transactions on knowledge and data engineering},
+  Year                     = {1996},
+
+  Month                    = {December},
+  Number                   = {6},
+  Pages                    = {962-969},
+  Volume                   = {8},
+
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07}
+}
+
+@Article{Aharon2006,
+  Title                    = { SVDD: An Algorithm for Designing Overcomplete Dictionaries for Sparse Representation},
+  Author                   = {Aharon, M. and Elad, M. and Bruckstein, A.},
+  Journal                  = {Trans. Sig. Proc.},
+  Year                     = {2006},
+
+  Month                    = nov,
+  Number                   = {11},
+  Pages                    = {4311--4322},
+  Volume                   = {54},
+
+  Acmid                    = {2201437},
+  Address                  = {Piscataway, NJ, USA},
+  Doi                      = {10.1109/TSP.2006.881199},
+  ISSN                     = {1053-587X},
+  Issue_date               = {November 2006},
+  Keywords                 = {Atom decomposition, FOCUSS, basis pursuit, codebook, dictionary, gain-shape VQ, matching pursuit, sparse representation, training, vector quantization},
+  Numpages                 = {12},
+  Publisher                = {IEEE Press},
+  Url                      = {http://dx.doi.org/10.1109/TSP.2006.881199}
+}
+
+@PhdThesis{Allis1994,
+  Title                    = {Searching for solutions in games and artificial intelligence},
+  Author                   = {V. Allis},
+  School                   = {University of Limburg, Maastricht},
+  Year                     = {1994},
+
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.03}
+}
+
+@Article{Bloom1970,
+  Title                    = {Space/Time Trade-offs in Hash Coding with Allowable Errors},
+  Author                   = {Bloom, Burton H.},
+  Journal                  = {Commun. ACM},
+  Year                     = {1970},
+
+  Month                    = {jul},
+  Number                   = {7},
+  Pages                    = {422--426},
+  Volume                   = {13},
+
+  Doi                      = {10.1145/362686.362692},
+  Keywords                 = {hash addressing, hash coding, retrieval efficiency, retrieval trade-offs, scatter storage, searching},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07},
+  Url                      = {http://doi.acm.org/10.1145/362686.36269}
+}
+
+@InProceedings{Chavan2015,
+  Title                    = {Frequent itemset mining for Big data},
+  Author                   = {K. Chavan and P. Kulkarni and P. Ghodekar and S. N. Patil},
+  Booktitle                = {2015 International Conference on Green Computing and Internet of Things (ICGCIoT)},
+  Year                     = {2015},
+  Pages                    = {1365-1368},
+
+  Doi                      = {10.1109/ICGCIoT.2015.7380679},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07}
+}
+
+@Article{Cheng2008,
+  Title                    = {A Survey on Algorithms for Mining Frequent Itemsets over Data Streams},
+  Author                   = {Cheng, James and Ke, Yiping and Ng, Wilfred},
+  Journal                  = {Knowl. Inf. Syst.},
+  Year                     = {2008},
+
+  Month                    = jul,
+  Number                   = {1},
+  Pages                    = {1--27},
+  Volume                   = {16},
+
+  Acmid                    = {1394425},
+  Address                  = {New York, NY, USA},
+  Doi                      = {10.1007/s10115-007-0092-4},
+  ISSN                     = {0219-1377},
+  Issue_date               = {July 2008},
+  Keywords                 = {Approximate algorithms, Frequent itemsets, Stream mining, Window models},
+  Numpages                 = {27},
+  Publisher                = {Springer-Verlag New York, Inc.},
+  Url                      = {http://dx.doi.org/10.1007/s10115-007-0092-4}
+}
+
+@InProceedings{Fang2009,
+  Title                    = {Frequen itemset mining on Graphics Processors},
+  Author                   = {W. Fang and M. Lu and X. Xiao B. He and Q. Luo},
+  Booktitle                = {Proceedings of the 5th International Workshop on Data Management on New Hardware},
+  Year                     = {2009},
+
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07}
+}
+
+@Article{Guha2014,
+  Title                    = {Image Similarity Using Sparse Representation and Compression Distance},
+  Author                   = {Guha, T. and Ward, R.K.},
+  Journal                  = {Multimedia, IEEE Transactions on},
+  Year                     = {2014},
+
+  Month                    = {June},
+  Number                   = {4},
+  Pages                    = {980-987},
+  Volume                   = {16},
+
+  Doi                      = {10.1109/TMM.2014.2306175},
+  ISSN                     = {1520-9210},
+  Keywords                 = {image coding;image matching;image representation;pattern clustering;compression distance;compression-based similarity methods;image classification;image clustering;image compression;image information content encoding;image representation;image retrieval;image similarity;signal similarity measurement;sparse representation-based approach;Approximation methods;Complexity theory;Context;Dictionaries;Feature extraction;Image coding;Transform coding;Compression;Kolmogorov complexity;image similarity;overcomplete dictionary;sparse representation}
+}
+
+@InBook{Hopp1995,
+  Title                    = {Parallel Algorithms for Irregularly Structured Problems},
+  Author                   = {H. Hopp and P. Sanders},
+  Chapter                  = {Parallel game tree search on SIMD machines},
+  Editor                   = {A. Ferreira and J. Rolim},
+  Pages                    = {349-361},
+  Publisher                = {Springer},
+  Year                     = {1995},
+  Volume                   = {980},
+
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.08}
+}
+
+@Article{Karypis1994,
+  Title                    = {Unstructured tree search on SIMD parallel computers},
+  Author                   = {G. Karypis and V. Kumar},
+  Journal                  = {IEEE Transactions on Parallel and Distributed Systems},
+  Year                     = {1994},
+
+  Month                    = {Oct},
+  Number                   = {10},
+  Pages                    = {1057-1072},
+  Volume                   = {5},
+
+  Doi                      = {10.1109/71.313122},
+  ISSN                     = {1045-9219},
+  Keywords                 = {parallel architectures;parallel machines;performance evaluation;resource allocation;search problems;trees (mathematics);15-puzzle problem;CM-2 SIMD parallel computer;MIMD architectures;SIMD machine;SIMD parallel computers;large-scale SIMD machines;load balancing;load-balancing methods;load-balancing schemes;scalability;search space redistribution;tree search;triggering mechanism;unstructured tree computations;unstructured tree search;Artificial intelligence;Central Processing Unit;Concurrent computing;Large-scale systems;Load management;Monte Carlo methods;Operations research;Parallel processing;Partitioning algorithms;Scalability},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.08}
+}
+
+@Misc{Lackovic2011,
+  Title                    = {Parallel game tree search using {GPU}},
+
+  Author                   = {Lubomir Lackovic},
+  HowPublished             = {Information Sciences and Technologies Bulletin of the ACM Slovakia, Special Section on Student Research in Informatics and Information Technologies, Vol. 3, No. 2 (2011) 79-82},
+  Year                     = {2011},
+
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.03}
+}
+
+@Article{Li2015,
+  Title                    = {A parallel algorithm for game tree search using {GPGPU}},
+  Author                   = {L. Li and H. Liu and H. Wang and T. Liu and W. Li},
+  Journal                  = {IEEE Transactions on Parallel and Distributed Systems},
+  Year                     = {2015},
+
+  Month                    = {Aug},
+  Number                   = {8},
+  Pages                    = {2114-2127},
+  Volume                   = {26},
+
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.08}
+}
+
+@MastersThesis{Manohararajah2001,
+  Title                    = {Parallel Alpha-Beta Search on Shared Memory Multiprocessors},
+  Author                   = {V. Manohararajah},
+  School                   = {Graduate Dept. of Electrical and Comput. Eng., Univ. of Toronto, Toronto, Canada},
+  Year                     = {2001},
+
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.08}
+}
+
+@InProceedings{Moens2013,
+  Title                    = {Frequent Itemset Mining for Big Data},
+  Author                   = {S. Moens and E. Aksehirli and B. Goethals},
+  Booktitle                = {2013 IEEE International Conference on Big Data},
+  Year                     = {2013},
+  Pages                    = {111-118},
+
+  Doi                      = {10.1109/BigData.2013.6691742},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07}
+}
+
+@Conference{Ong2013,
+  Title                    = {A parallel bloom filter string searching algorithm on a many-core processor},
+  Author                   = {W. Ong and V. M. Baskaran and P. K. Chong and K. K. Ettikan and K. K. Yong},
+  Booktitle                = {2013 IEEE Conference on Open Systems (ICOS)},
+  Year                     = {2013},
+  Pages                    = {1-6},
+
+  Abstract                 = {This paper analyzes the underlying architecture of a serial Bloom filter string searching algorithm to identify the performance impact of this algorithm for large datasets. Then, a parallel multi-core driven Bloom filter algorithm using software application threads is studied as benchmark. Experimental results suggest that for a set of 10 million strings, this algorithm exhibits speedups of up to 3.3× against a serial Bloom filter algorithm, when using an 8-logical processor multi-core architecture. To further improve the speedup, a many-core driven parallel Bloom filter algorithm is proposed using the Compute Unified Device Architecture (CUDA) parallel computing platform. The proposed algorithm segments the string list into blocks of words and threads in generating the bit table for the string searching process, which maximizes computational performance and sustains consistent string searching results. Experimental results suggest that the proposed algorithm extends the speedup to 5.5× against a serial Bloom filter algorithm, when using a 256-core CUDA graphics processing unit architecture.},
+  Doi                      = {10.1109/ICOS.2013.6735037},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07}
+}
+
+@Article{Ozkural2011,
+  Title                    = {Parallel Frequent Item Set Mining with Selective Item Replication},
+  Author                   = {E. Ozkural and B. Ucar and C. Aykanat},
+  Journal                  = {IEEE Transactions on Parallel and Distributed Systems},
+  Year                     = {2011},
+
+  Month                    = {Oct},
+  Number                   = {10},
+  Pages                    = {1632-1640},
+  Volume                   = {22},
+
+  Doi                      = {10.1109/TPDS.2011.32},
+  Keywords                 = {data mining;database management systems;graph theory;resource allocation;NoClique;NoClique2;computational load balancing;graph partitioning;parallel frequent item set mining;selective item replication;subdatabases;transaction database distribution scheme;vertex separator;Data mining;Equations;Itemsets;Particle separators;Program processors;Parallel data mining;frequent item set mining;graph partitioning by vertex separator.;mining methods and algorithms;selective data replication},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07}
+}
+
+@InProceedings{Patel2012,
+  Title                    = {Parallel lossless data compression on the GPU},
+  Author                   = {Patel, R.A. and Yao Zhang and Mak, J. and Davidson, A. and Owens, J.D.},
+  Booktitle                = {Innovative Parallel Computing (InPar), 2012},
+  Year                     = {2012},
+  Month                    = {May},
+  Pages                    = {1-9},
+
+  Doi                      = {10.1109/InPar.2012.6339599},
+  Keywords                 = {Huffman codes;data compression;graphics processing units;parallel algorithms;telecommunication computing;trees (mathematics);BWT;Burrows-Wheeler transform;GPU architectures;Huffman coding;Huffman tree;MTF;bzip2-like lossless data compression scheme;move-to-front transform;parallel lossless data compression;parallel reduction scheme;scan-based parallel MTF algorithm;Arrays;Encoding;Graphics processing unit;Histograms;Humans;Instruction sets;Transforms}
+}
+
+@InProceedings{Soman2010,
+  Title                    = {Efficient Discrete Range Searching primitives on the GPU with applications},
+  Author                   = {J. Soman and M. K. Kumar and K. Kothapalli and P. J. Narayanan},
+  Booktitle                = {2010 International Conference on High Performance Computing},
+  Year                     = {2010},
+  Month                    = {Dec},
+  Pages                    = {1-10},
+
+  Doi                      = {10.1109/HIPC.2010.5713188},
+  ISSN                     = {1094-7256},
+  Keywords                 = {computer graphic equipment;coprocessors;graph theory;multiprocessing systems;GPU;batch querying;discrete range searching primitives;graph algorithms;graphics processing units;string querying;tree queries;Arrays;Computational modeling;Graphics processing unit;Indexes;Instruction sets;Memory management;Registers},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.08}
+}
+
+@Article{Tenllado2008,
+  Title                    = {Parallel Implementation of the 2D Discrete Wavelet Transform on Graphics Processing Units: Filter Bank versus Lifting},
+  Author                   = {Tenllado, C. and Setoain, J. and Prieto, M. and Pinuel, L. and Tirado, F.},
+  Journal                  = {Parallel and Distributed Systems, IEEE Transactions on},
+  Year                     = {2008},
+
+  Month                    = {March},
+  Number                   = {3},
+  Pages                    = {299-310},
+  Volume                   = {19},
+
+  Doi                      = {10.1109/TPDS.2007.70716},
+  ISSN                     = {1045-9219},
+  Keywords                 = {computer graphics;discrete wavelet transforms;filtering theory;2D discrete wavelet transform;filter bank scheme;floating-point calculations;graphics processing units;lifting scheme;streaming processors;Graphics processors;Optimization;Parallel algorithms;Paralleland vector implementations;Parallelprocessing;SIMD processors;Wavelets and fractals}
+}
+
+@InProceedings{Thiagarajan2012,
+  Title                    = {Supervised local sparse coding of sub-image features for image retrieval},
+  Author                   = {J. J. Thiagarajan and K. Natesan Ramamurthy and P. Sattigeri and A. Spanias},
+  Booktitle                = {2012 19th IEEE International Conference on Image Processing},
+  Year                     = {2012},
+  Pages                    = {3117-3120},
+
+  Doi                      = {10.1109/ICIP.2012.6467560},
+  Keywords                 = {computer vision;feature extraction;image classification;image coding;image representation;image retrieval;computer vision;dense descriptor;dictionary design;feature extraction;image classification;image modeling;image recovery;image retrieval;object recognition;sparse representation;spatial pyramid feature;subimage feature;supervised local sparse coding;Dictionaries;Encoding;Feature extraction;Image coding;Image retrieval;Vectors;Visualization;Local linear modeling;Sparse coding;dictionary learning;image retrieval},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07}
+}
+
+@Article{Wong2006,
+  Title                    = {Mining top-K frequent itemsets from data streams},
+  Author                   = {Wong, Raymond Chi-Wing and Fu, Ada Wai-Chee},
+  Journal                  = {Data Mining and Knowledge Discovery},
+  Year                     = {2006},
+  Number                   = {2},
+  Pages                    = {193--217},
+  Volume                   = {13},
+
+  Abstract                 = {Frequent pattern mining on data streams is of interest recently. However, it is not easy for users to determine a proper frequency threshold. It is more reasonable to ask users to set a bound on the result size. We study the problem of mining top K frequent itemsets in data streams. We introduce a method based on the Chernoff bound with a guarantee of the output quality and also a bound on the memory usage. We also propose an algorithm based on the Lossy Counting Algorithm. In most of the experiments of the two proposed algorithms, we obtain perfect solutions and the memory space occupied by our algorithms is very small. Besides, we also propose the adapted approach of these two algorithms in order to handle the case when we are interested in mining the data in a sliding window. The experiments show that the results are accurate.},
+  Doi                      = {10.1007/s10618-006-0042-x},
+  ISSN                     = {1573-756X},
+  Url                      = {http://dx.doi.org/10.1007/s10618-006-0042-x}
+}
+
+@Article{Wright2010,
+  Title                    = {Sparse Representation for Computer Vision and Pattern Recognition},
+  Author                   = {Wright, J. and Yi Ma and Mairal, J. and Sapiro, G. and Huang, T.S. and Shuicheng Yan},
+  Journal                  = {Proceedings of the IEEE},
+  Year                     = {2010},
+
+  Month                    = {June},
+  Number                   = {6},
+  Pages                    = {1031-1044},
+  Volume                   = {98},
+
+  Doi                      = {10.1109/JPROC.2010.2044470},
+  ISSN                     = {0018-9219},
+  Keywords                 = {computer vision;signal representation;algorithmic techniques;analytical techniques;computer vision;pattern recognition;semantic information;sparse signal representation;state-of-the-art results;training samples;unconventional dictionaries;Algorithm design and analysis;Application software;Asia;Computer vision;Data mining;Dictionaries;Face recognition;Joining processes;Pattern recognition;Signal processing algorithms;Signal representations;Compressed sensing;computer vision;pattern recognition;signal representations}
+}
+
+@Article{Wright2009,
+  Title                    = {Robust Face Recognition via Sparse Representation},
+  Author                   = {Wright, J. and Yang, A.Y. and Ganesh, A. and Sastry, S.S. and Yi Ma},
+  Journal                  = {Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  Year                     = {2009},
+
+  Month                    = {Feb},
+  Number                   = {2},
+  Pages                    = {210-227},
+  Volume                   = {31},
+
+  Doi                      = {10.1109/TPAMI.2008.79},
+  ISSN                     = {0162-8828},
+  Keywords                 = {face recognition;feature extraction;lightning;object recognition;random processes;regression analysis;signal representation;Laplacianfaces;downsampled images;eigenfaces;feature extraction;illumination;image-based object recognition;multiple linear regression model;occlusion;random projections;robust face recognition;sparse signal representation;Classification algorithms;Face recognition;Feature extraction;Humans;Image recognition;Lighting;Linear regression;Object recognition;Robustness;Signal representations;Classifier design and evaluation;Face and gesture recognition;Face recognition;Feature evaluation and selection;Occlusion;Outlier rejection;Spare representation;compressed sensing;ell^{1}--minimization;feature extraction;occlusion and corruption;sparse representation;validation and outlier rejection.;Algorithms;Artificial Intelligence;Biometry;Cluster Analysis;Face;Humans;Image Enhancement;Image Interpretation, Computer-Assisted;Pattern Recognition, Automated;Reproducibility of Results;Sensitivity and Specificity;Subtraction Technique}
+}
+
+@InProceedings{Zhang2011,
+  Title                    = {G{PA}priori: {GPU}-Accelerated Frequent Itemset Mining},
+  Author                   = {F. Zhang and Y. Zhang and J. Bakos},
+  Booktitle                = {2011 IEEE International Conference on Cluster Computing},
+  Year                     = {2011},
+  Pages                    = {590-594},
+
+  Doi                      = {10.1109/CLUSTER.2011.61},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07}
+}
+
+@Article{Zhang2013,
+  Title                    = {Accelerating Frequent Itemset Mining on Graphics Processing Units},
+  Author                   = {Zhang, Fan and Zhang, Yan and Bakos, Jason D.},
+  Journal                  = {J. Supercomput.},
+  Year                     = {2013},
+  Pages                    = {94--117},
+
+  Doi                      = {10.1007/s11227-013-0887-x},
+  Keywords                 = {Association rule mining, CUDA GPU computing, Frequent itemset mining, Parallel computing},
+  Owner                    = {hairong-wang},
+  Timestamp                = {2017.02.07},
+  Url                      = {http://dx.doi.org/10.1007/s11227-013-0887-x}
+}
+

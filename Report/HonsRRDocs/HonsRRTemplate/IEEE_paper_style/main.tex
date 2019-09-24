@@ -1,0 +1,116 @@
+%IEEEbib.bst - IEEE bibliography style file.
+% --------------------------------------------------------------------------
+\documentclass[journal]{IEEEtran}
+\usepackage{amsmath,mathbbol,epsfig}
+\usepackage{url}
+\usepackage[ruled,noend,noline]{algorithm2e} 
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{color,soul}
+% Example definitions.
+% --------------------
+\def\x{{\mathbf x}}
+\def\L{{\cal L}}
+\newcommand{\argmin}{\operatornamewithlimits{argmin}}
+\newcommand{\argmax}{\operatornamewithlimits{argmax}}
+\graphicspath{{../figures/}}
+\makeatletter
+\newcommand{\rmnum}[1]{\romannumeral #1}
+\newcommand{\Rmnum}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+% Title.
+% ------
+
+\title{Report Title}
+%
+% Single address.
+% ---------------
+\author{Your~Name %\thanks{}
+}
+%\address{School of Computer Science and Applied Mathematics\\
+%	Wits University, Johannesburg, South Africa}
+%
+% For example:
+% ------------
+%\address{School\\
+%	Department\\
+%	Address}
+% \vskip{-1pt}
+% Two addresses (uncomment and modify for two-address case).
+% ----------------------------------------------------------
+%\twoauthors
+%  {A. Author-one, B. Author-two\sthanks{Thanks to XYZ agency for funding.}}
+%	{School A-B\\
+%	Department A-B\\
+%	Address A-B}
+%  {C. Author-three, D. Author-four\sthanks{The fourth author performed the work
+%	while at ...}}
+%	{School C-D\\
+%	Department C-D\\
+%	Address C-D}
+%
+\usepackage{setspace}
+\singlespacing
+%\onehalfspacing
+%\doublespacing
+%\setstretch{1.1}
+\begin{document}
+\onecolumn
+%\ninept
+%
+\input{title_page}
+%declaration
+%\thispagestyle{empty}
+\section*{\textbf{Declaration\\
+University of the Witwatersrand, Johannesburg\\
+School of Computer Science and Applied Mathematics\\
+Senate Plagiarism Policy}}  
+\addcontentsline{toc}{section}{\numberline{}Declaration}
+\vskip 1cm
+I, INSERT YOUR NAME HERE, (Student number: INSERT YOUR STUDENT NUMBER HERE) am a student registered for 
+INSERT THE COURSE CODE HERE in the year INSERT THE ACADEMIC YEAR HERE.
+
+I hereby declare the following: 
+\begin{itemize}
+\item
+I am aware that plagiarism (the use of someone else's work without their permission and/or without acknowledging the original source) is wrong. 
+\item
+I confirm that ALL the work submitted for assessment for the above course is my own unaided work except where I have explicitly indicated otherwise. 
+\item
+I have followed the required conventions in referencing the 
+thoughts and ideas of others.
+\item
+I understand that the University of the Witwatersrand may take 
+disciplinary action against me if there is a belief that this in not my own unaided work or that I have failed to acknowledge the source of the ideas or words in my writing.  
+\end{itemize}
+\vskip 1cm
+\noindent
+\textbf{Signature}: 
+\hspace{2cm}
+\vskip 6mm
+\noindent
+Signed on \rule{3cm}{0.4pt} day of \rule{3cm}{0.4pt} , 2017 in Johannesburg.
+\newpage
+\twocolumn
+\maketitle
+\input{abstract}
+\input{ch1_intro}
+\input{ch2_survey} 
+\input{ch3_method}
+\input{ch4_results}
+\input{ch5_conclusion}
+  
+
+% -------------------------------------------------------------------------
+%\section{REFERENCES}
+%\label{sec:ref}
+% References should be produced using the bibtex program from suitable
+% BiBTeX files (here: strings, refs, manuals). The IEEEbib.bst bibliography
+% style file from IEEE produces unsorted bibliography list.
+% -------------------------------------------------------------------------
+%\setlength{\bibsep}{0pt plus 0.3ex}
+\bibliographystyle{IEEEbib}
+%\bibfont{\footnotesize}
+\bibliography{honRefs}
+
+\end{document}

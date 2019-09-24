@@ -1,0 +1,43 @@
+\section{Abstract}
+
+\section{Introduction}
+
+\subsection{Problem Domain: The Card Game Gwent}
+\subsubsection{Restrictions on Domain}
+
+\subsection{General Assumptions}
+
+\subsection{Glossary Of Terms}
+
+\section{Background and Related Research}
+
+\subsection{Literature Review}
+
+\subsection{Further Literature and References}
+% outline of the sections and subsections will use, motivation
+\subsubsection{}
+
+\subsubsection{Plan for Finding Relevant Literature}
+% search terms
+
+\section{Research Method}
+
+\subsection{Hypothesis}
+
+\subsection{Motivation}
+
+\subsection{Research Methodology}
+%This may be (but must not) presented briefly in bullet point form. (2 to 3 pages).
+
+\section{Research Plan}
+\subsection{Introduction}
+
+\subsection{Risks}
+
+\subsection{Deliverables}
+
+\subsection{Time Plan}
+
+\subsection{Conclusion}
+
+\section{Conclusion}

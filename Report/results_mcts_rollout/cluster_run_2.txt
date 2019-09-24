@@ -1,0 +1,1112 @@
+start...
+1
+Survey of AI Methods in the Card Game Gwent
+Jason Chalom 711985
+2017
+
+Starting game...
+
+Player 1 Hand:
+======================
+
+| Dandelion 2 0 || Torrential Rain 0 0 || John Natalis 10 0 || Sigismund Dijkstra 4 3 || Cirilla Fiona Elen Riannon 15 0 || Catapult 8 0 || Vesemir 6 0 || Trebuchet 6 0 || Clear Weather 0 0 || Clear Weather 0 0 || Clear Weather 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Impera Brigade Guard 3 0 || Young Emissary 5 0 || Letho of Gulet 10 0 || Frangilla Vigo 6 0 || Impera Brigade Guard 3 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Commander's Horn 0 0 || Siege Technician 0 0 || Vattier De Rideaux 4 3 || Etolian Auxiliary Archers 1 0 || Impenetrable Fog 0 0 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: Sigismund Dijkstra ap: 4
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 1 P1: 0 P2: 7.
+Player 1 Plays: Clear Weather ap: 0
+Player 2 Plays: Young Emissary ap: 5
+
+Current Round: 1 P1: 0 P2: 12.
+Player 1 Plays: John Natalis ap: 10
+Player 2 Plays: Letho of Gulet ap: 10
+
+Current Round: 1 P1: 10 P2: 22.
+Player 1 Plays: Thaler ap: 1
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 1 P1: 10 P2: 29.
+Player 1 Plays: Dandelion ap: 2
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 1 P1: 20 P2: 38.
+Player 1 Plays: Torrential Rain ap: 0
+Player 2 Plays: Commander's Horn ap: 0
+
+Current Round: 1 P1: 20 P2: 48.
+Player 1 Plays: Siegfried of Denesle ap: 5
+Player 2 Plays: Siege Technician ap: 0
+
+Current Round: 1 P1: 30 P2: 49.
+Player 1 Plays: Catapult ap: 8
+Player 2 Plays: Vattier De Rideaux ap: 4
+
+Current Round: 1 P1: 39 P2: 49.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Etolian Auxiliary Archers ap: 1
+
+Current Round: 1 P1: 47 P2: 50.
+Player 1 Plays: Commander's Horn ap: 0
+Player 2 Plays: Impenetrable Fog ap: 0
+
+Current Round: 1 P1: 47 P2: 35.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 1 P1: 71 P2: 35.
+Player 1 Plays: Vernon Roche ap: 10
+
+Current Round: 1 P1: 91 P2: 35.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 2 P1: 0 P2: 1.
+Player 2 Plays: Nausicaa Cavalry Rider ap: 2
+
+Current Round: 2 P1: 0 P2: 3.
+Player 2 Plays: Cirilla Fiona Elen Riannon ap: 15
+
+Current Round: 2 P1: 0 P2: 18.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Trebuchet ap: 6
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 3 P1: 1 P2: 0.
+Player 1 Plays: Ves ap: 5
+
+Current Round: 3 P1: 6 P2: 0.
+Player 1 Plays: Cirilla Fiona Elen Riannon ap: 15
+
+Current Round: 3 P1: 21 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 3
+
+Player 1 Wins!
+Game Time: 96.7254 seconds.
+Starting game...
+
+Player 1 Hand:
+======================
+
+| John Natalis 10 0 || Blue Stripes Commando 4 0 || Triss Merigold 7 0 || Prince Stennis 5 3 || Sigismund Dijkstra 4 3 || Catapult 8 0 || Avallac'h 0 3 || Impenetrable Fog 0 0 || Blue Stripes Commando 4 0 || Ves 5 0 || Pass Round 0 0 |
+======================
+
+
+Player 2 Hand:
+======================
+
+| Vesemir 6 0 || Stefan Skellen 9 3 || Siege Technician 0 0 || Black Infrantry Archer 10 0 || Etolian Auxiliary Archers 1 0 || Heavy Zerrikanian Fire Scorpion 10 0 || Frangilla Vigo 6 0 || Morvran Voorhis 10 0 || Impera Brigade Guard 3 0 || Avallac'h 0 3 || Pass Round 0 0 |
+======================
+
+
+Current Round: 1 P1: 0 P2: 0.
+Player 1 Plays: John Natalis ap: 10
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 1 P1: 10 P2: 6.
+Player 1 Plays: Blue Stripes Commando ap: 4
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 1 P1: 14 P2: 16.
+Player 1 Plays: Triss Merigold ap: 7
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 1 P1: 21 P2: 26.
+Player 1 Plays: Prince Stennis ap: 5
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 1 P1: 21 P2: 31.
+Player 1 Plays: Sigismund Dijkstra ap: 4
+Player 2 Plays: Pass Round ap: 0
+
+Current Round: 1 P1: 21 P2: 35.
+Player 1 Plays: Catapult ap: 8
+
+Current Round: 1 P1: 29 P2: 35.
+Player 1 Plays: Avallac'h ap: 0
+
+Current Round: 1 P1: 29 P2: 35.
+Player 1 Plays: Impenetrable Fog ap: 0
+
+Current Round: 1 P1: 29 P2: 26.
+Player 1 Plays: Blue Stripes Commando ap: 4
+
+Current Round: 1 P1: 41 P2: 26.
+Player 1 Plays: Ves ap: 5
+
+Current Round: 1 P1: 46 P2: 26.
+Player 1 Plays: Vesemir ap: 6
+
+Current Round: 1 P1: 52 P2: 26.
+Player 1 Plays: Zoltan Chivay ap: 5
+
+Current Round: 1 P1: 57 P2: 26.
+Player 1 Plays: Commander's Horn ap: 0
+
+Current Round: 1 P1: 99 P2: 26.
+Player 1 Plays: Crinfrid Reavers Dragon Hunter ap: 5
+
+Current Round: 1 P1: 100 P2: 26.
+Player 1 Plays: Torrential Rain ap: 0
+
+Current Round: 1 P1: 87 P2: 17.
+Player 1 Plays: Siegfried of Denesle ap: 5
+
+Current Round: 1 P1: 97 P2: 17.
+Player 1 Plays: Pass Round ap: 0
+Player 1 Wins round 1
+
+
+Current Round: 2 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 2 P1: 0 P2: 1.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 2 P1: 0 P2: 1.
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 2 P1: 0 P2: 2.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 2 P1: 0 P2: 2.
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 2 P1: 0 P2: 3.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 2 P1: 0 P2: 3.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 2 P1: 0 P2: 3.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 2 P1: 0 P2: 3.
+Invalid move. (before card play) Card: Prince Stennis
+Player 2 Plays: Prince Stennis ap: 5
+
+Current Round: 2 P1: 0 P2: 3.
+Player 2 Plays: Pass Round ap: 0
+Player 2 Wins round 2
+
+
+Current Round: 3 P1: 0 P2: 0.
+Player 1 Plays: Pass Round ap: 0
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Prince Stennis
+Player 2 Plays: Prince Stennis ap: 5
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Prince Stennis
+Player 2 Plays: Prince Stennis ap: 5
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Prince Stennis
+Player 2 Plays: Prince Stennis ap: 5
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Prince Stennis
+Player 2 Plays: Prince Stennis ap: 5
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Prince Stennis
+Player 2 Plays: Prince Stennis ap: 5
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Prince Stennis
+Player 2 Plays: Prince Stennis ap: 5
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Prince Stennis
+Player 2 Plays: Prince Stennis ap: 5
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Vesemir
+Player 2 Plays: Vesemir ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Sigismund Dijkstra
+Player 2 Plays: Sigismund Dijkstra ap: 4
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Frangilla Vigo
+Player 2 Plays: Frangilla Vigo ap: 6
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Impera Brigade Guard
+Player 2 Plays: Impera Brigade Guard ap: 3
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Morvran Voorhis
+Player 2 Plays: Morvran Voorhis ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Heavy Zerrikanian Fire Scorpion
+Player 2 Plays: Heavy Zerrikanian Fire Scorpion ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Avallac'h
+Player 2 Plays: Avallac'h ap: 0
+
+Current Round: 3 P1: 0 P2: 0.
+Invalid move. (before card play) Card: Black Infrantry Archer
+Player 2 Plays: Black Infrantry Archer ap: 10
+
+Current Round: 3 P1: 0 P2: 0.

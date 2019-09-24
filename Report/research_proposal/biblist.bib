@@ -1,0 +1,202 @@
+@techreport{AIM030,
+    author = {Edwards, D.J. and Hart, T.P.},
+    title = {{The Alpha-Beta Heuristic}},
+    number = {AIM-30},
+    group = {Artificial Intelligence Laboratory},
+    institution = {Massachusetts Institute of Technology},
+    year = {1961},
+    address="{http://hdl.handle.net/1721.1/6098}",
+    annote = {
+	    \textbf{Aim:} To define and present the alpha-beta heuristic as an extension of the minimax tree search algorithm.\\\\
+		
+		\textbf{Style/Type:} Technical memo (report). Theoretical, with a practical example. \\\\
+		
+		\textbf{Cross References:} This technical memo is very old and is the seminal paper on this heuristic algorithm. It builds upon the minimax algorithm which the textbook Artificial Intelligence A Modern Approach \cite{AIModern} demonstrates.\\\\
+		                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+		\textbf{Summary:} The alpha-beta heuristic helps to remove unneeded branches from a tree produced by the possible moves of a given game. It uses partial information from the tree to decide which branches on the tree are no longer needed for a search algorithm such as the minimax algorithm. The branches that are removed are branches which do not affect the final decision of the adversarial search algorithm. The method uses the fact that if a move is found to be worse than a move evaluated previously (either for the min player or the max player), than that move does not affect the outcome of the search. The memo highlights the importance of the ordering of possible one-step moves from the current position - as the algorithm achieves the best results when the desired move is at the beginning of the generated list of positions. The most that the alpha-beta pruning algorithm can achieve (in the best case scenario) is to cut a search tree's growth rate in half which implies that for the same time complexity using this algorithm allows the same computing system to search twice the depth of the traditional minimax search algorithm. Edwards and Hart then prove this by induction.
+	}
+}
+@incollection{AIModern,
+    author = {Russell, Stuart and Norvig, Peter},
+    Chapter = {5},
+    Pages = {"161-189"},
+    howpublished = {Hardcover},
+    isbn = {0136042597},
+    keywords = {ai, phd},
+    priority = {0},
+    publisher = {Pearson},
+    title = {{Artificial Intelligence: A Modern Approach (3rd Edition)}},
+    address = {https://www.amazon.com/gp/product/0136042597},
+    year = {2009},
+    annote = {
+		\textbf{Aim:} Examine situations which arise when building artificial agents in multiagent environments where these environments are competitive and then propose computational strategies to deal with these situations in a practical manner. \\\\
+		
+		\textbf{Style/Type:} Textbook chapter, theoretical, hypothetical and practical. \\\\
+		
+		\textbf{Cross References:} The alpha-beta algorithm \cite{AIM030} is presented in this textbook and then extended into a number of new strategies such as using past knowledge to influence the order of the states during the pruning process. Another extension to the alpha-beta algorithm is when it is applied with the expectiminimax algorithm when dealing with games which contain a certain degree of chance. Here the use of bounds on the objective function is used to reduce the computational requirement of averaging every child node of the chance node in question. Monte Carlo simulation is also presented as an alternative to evaluating a position for use with alpha-beta. \\\\
+		
+		\textbf{Summary:} This chapter of the textbook begins by defining the fundamental components that make up an adversarial game. The chapter then goes onto looking at search trees used for automated play of these games and the minimax algorithm which is used to find the optimal strategy at a specific position whilst trying to avoid the worst decision the "player" MAX can make and the effects of that decision. The chapter then goes onto discuss the downsides of minimax which is the time and space complexity of the search for exceptionally large game states. Solutions such as alpha-beta pruning are provided. Later in the chapter heuristic solutions to the exponential growth of the minimax tree are given such estimating expected outcomes of a given position, cutting off the minimax search at a pre-specified depth and in the case of stochastic and partially observable games running Monte Carlo simulations and storing a look-up table of a set of known policies such as end states and killer moves.
+    }
+}
+
+@article{progressive,
+	title = {{Progressive Strategies for Monte-Carlo Tree Search}},
+	author = {{Chaslot, Guillaume M. J-B. and Winands, Mark H. M. and van Den Herik, H. Jaap and Uiterwijk, Jos W. H. M. and Bouzy, Bruno}},
+	year = {2008},
+	journal = {{New Mathematics and Natural Computation (NMNC)}},
+	volume = {04},
+	number = {03},
+	pages = {343-357},
+	keywords = {Monte-Carlo Tree Search; heuristic search; Computer Go},
+	address = {http://EconPapers.repec.org/RePEc:wsi:nmncxx:v:04:y:2008:i:03:p:343-357},
+    annote = {
+		\textbf{Aim:} The introduction of two strategies for MCTS namely, progressive bias and progressive unpruning to enable the use of heuristic knowledge in MCTS without too much cost in computational time. \\\\
+		
+		\textbf{Style/Type:} Journal article, theoretical and practical - provides an example implementation of proposed methods \\\\
+		
+		\textbf{Cross References:} Chaslot et al. continued to build upon their previous work with building AIs for the game Go. This paper proposes two new sub-strategies for MCTS which builds upon Mark Winands and others work and the work on MCTS in general. A Survey of Monte Carlo Tree Search Methods \cite{survey} heavily cites this paper. \\\\
+		
+		\textbf{Summary:} The paper begins by presenting the basic MCTS algorithm. There is also a description of four ways of determining the best child node as the final move selection. These look at how often a child is visited, the value of the respective child and some combination of these and other parameters. The progressive strategies suggested in this paper attempt to leave out infrequently visited nodes that can be selected and examined later. This is done using available information and some heuristics (which are computationally expensive) to select nodes which are visited often and invalidate the rest. Progressive bias attempts to replace unreliable nodes (not visited often) with some heuristic function which takes in this suspect node as its input. As the node is visited more (during simulations) often, the method will ensure that the heuristic's influence decreases. The heuristic is also only applied after some fixed number of visits have passed for each node. This means that initially the MCTS functions as normal, after sometime the selection algorithm is applied to each node so the children with the highest heuristic values get chosen first due to there not being enough simulations to make an accurate prediction. As the number of simulations grows, the impact of both the heuristic function and the simulations are balanced. As the number of simulations keeps growing a boundary will be reached (determined by the heuristic function used) where the influence of the heuristic function will decrease until it has little effect whereas the effects of the simulated results now have a high impact on the outcome and the behaviour becomes similar to the basic approach of MCTS. Progressive unpruning is a method for ignoring moves which may be evaluated later by using heuristic knowledge to reduce the size of the tree. When the number of simulations of some node equals a predefined threshold then a heuristic should be used to prune the less likely to be visited children nodes such that only the most likely nodes are selected. As the number of simulations gets bigger and further from the threshold, the children nodes should be progressively unpruned so that they may be evaluated. This reduces the number of sub-branches to deal with during the lower set of iterations (of simulation). Chaslot et al. discusses how this helps with the time-complexity of the MCTS whilst improving accuracy for a lower number of samples (simulations). They conclude that these methods increase the "level of play" without a dramatic increase in the amount of time taken away by using these heuristics whereas to get the same results with a basic MCTS will produce far worse time complexity.
+    }
+}
+
+@inproceedings{bandit,
+	author = {{Kocsis, Levente and Szepesv\'{a}ri, Csaba}},
+	title = {{Bandit Based Monte-Carlo Planning}},
+	booktitle = {Proceedings of the 17th European Conference on Machine Learning},
+	series = {ECML'06},
+	year = {2006},
+	isbn = {3-540-45375-X, 978-3-540-45375-8},
+	location = {Berlin, Germany},
+	pages = {282-293},
+	numpages = {12},
+	doi = {10.1007/11871842_29},
+	acmid = {2091633},
+	publisher = {Springer-Verlag},
+    annote = {
+		\textbf{Aim:} To present a new algorithm called Upper Confidence Bounds for Trees (UCT), theoretically analyze its characteristics and experimentally show that it is more efficient than alternative algorithms. \\\\
+		
+		\textbf{Style/Type:} Conference paper, theoretical, with practical elements and experimental results \\\\
+		
+		\textbf{Cross References:} This paper builds on work done by Kearns et al. with Markovian Decision Problems by finding an algorithm which outperforms the established method in terms of time complexity and error. This paper itself is building on the work which has been done on the MCTS, by providing a modification to the general MCTS method. A Survey of Monte Carlo Tree Search Methods \cite{survey} heavily cites this paper due to the methods they propose for modifying MCTS. \\\\
+		
+		\textbf{Summary:} This paper looks at the exploration phase of the MCTS method. Kocsis et al. first goes through an established method of optimizing the action-space of a large domain Markovian Decison Problem, when assuming that there is a MDP available. This is called the sampling based lookahead search and Kocsis et al. found that whilst this method seems promising the computational complexity of this algorithm is extremely massive. The UCT algorithm is meant to sample moves selectively in order to reduce operational complexity, gain large performance improvements over other approaches and also produce a smaller entropy - if the algorithm is stopped prematurely. The paper talks about a catch-22 problem known as the exploration-exploitation dilemma where there is contention between the exploration of deeper variant moves with high win rate versus moves with few simulations associated with them. UCT uses a bandit-algorithm to selectively sample moves. This algorithm uses random probabilities (in the case of UCT) based on a policy mapping of what the next move will be which are generated and then checked against a regret function such as one used in minimax regret, and here the aim is the same - to minimize the regret. The regret function used calculates the loss based on how many times the policies did not use the best possible path. The UCT algorithm, treats every child node of the move selection which has been explored as separate multi-armed bandit problems. The arms of each bandit problem are the available moves on the sub-tree and the child nodes are the weighted rewards of the paths calculated using the bandit-algorithm. Kocsis et al. describes a P-game tree as a minimax tree for games where there is a global evaluation of the positions in the current game state. The rest of the P-game tree follows the standard model for minimax. In the tests conducted in the paper which compares several algorithms, UCT appears to produce less error than AB, MCTS and Monte-Carlo planning with minimax value update (A hybrid approach). Kocsis et al. concludes that the UCT algorithm achieved the authors two goals of producing a modified MCTS which is able to search deeper for the same time complexity whilst producing less error than established algorithms.
+
+    }
+} 
+
+@article{survey, 
+	author={C. B. Browne and E. Powley and D. Whitehouse and S. M. Lucas and P. I. Cowling and P. Rohlfshagen and S. Tavener and D. Perez and S. Samothrakis and S. Colton}, 
+	journal={IEEE Transactions on Computational Intelligence and AI in Games}, 
+	title={{A Survey of Monte Carlo Tree Search Methods}}, 
+	year={2012}, 
+	volume={4}, 
+	number={1}, 
+	pages={1-43}, 
+	keywords={Monte Carlo methods;game theory;tree searching;MCTS research;Monte carlo tree search methods;computer Go;key game;nongame domains;random sampling generality;Artificial intelligence;Computers;Decision theory;Game theory;Games;Markov processes;Monte Carlo methods;Artificial intelligence (AI);Monte Carlo tree search (MCTS);bandit-based methods;computer Go;game search;upper confidence bounds (UCB);upper confidence bounds for trees (UCT)}, 
+	doi={10.1109/TCIAIG.2012.2186810}, 
+	url = {{http://dx.doi.org/10.1109/TCIAIG.2012.2186810}},
+	ISSN={1943-068X}, 
+	month={March},
+    annote = {
+		\textbf{Aim:} A survey of the proposed Monte Carlo tree search methods in the literature for the first five years of research in the field, as well as giving an overview of the core algorithm, proposed enhancements and providing a look at the impacts and applications of these methods in a variety of domains. Future research is also proposed at the end.  \\\\
+		
+		\textbf{Style/Type:} Survey article, theoretical and practical applications. There are also some predictions of the future in the field of MCTS \\\\
+		
+		\textbf{Cross References:} This paper is a wealth of information which cites from many sources including Artificial Intelligence A Modern Approach (3rd Edition) \cite{AIModern}, the conference paper, Progressive Strategies for MCTS \cite{progressive} and the other conference paper, Bandit Based Monte-Carlo Planning \cite{bandit}. They use the textbook \cite{AIModern} as a general reference so that they can reduce the number of AI references that are not directly related to Monte Carlo Tree Search. The work described in the conference paper \cite{progressive} which covers the methods of progressive bias and progressive unpruning get their own sections in the survey where Cameron et al. summarizes both on pages 8 (5.2.5) and 21 (5.5.1) respectively. Bandit Based Monte-Carlo Planning \cite{bandit} also gets its own summary section on page 5 (2.4). However this paper is referenced many times throughout the survey. This is an important paper in the history of MCTS and it also is the paper which put forward the UCT algorithm. It also helped to prove that the UCT method causes MCTS to converge to the minimax tree - assuming enough time and memory complexities. \\\\
+		
+		\textbf{Summary:} This survey is extensive in its coverage of the domain of MCTS methods. The first part of this paper is an introduction and overview of the general MCTS methodology. MCTS is a heuristic optimisation method for decisions in certain domains and game spaces. It works by randomly searching the domain and building a tree search based on this sample of the data. Cameron et al. states that MCTS is a powerful tool for hidden domain problems, and problems where other techniques have been unsuccessful. The basic idea of MCTS as described in the paper is a combination of random sampling type simulations (Monte-Carlo) and tree search techniques. These simulations are used to generate the game tree which are then used to decide the next move to be made in the game state. MCTS has four major steps: Selection, Expansion, Simulation and Backpropagation. In the selection step the simulations are targeted on specific urgent nodes of the tree which are determined by some predefined policy. The expansion step is when child nodes are added to the tree. A simulation is then run on the new tree and finally the results are backpropagated up the tree to update the weights of the nodes. The simulations themselves are governed by a policy which in the most basic case is to perform a random move. This whole process is recursive in nature. This algorithm also has a termination condition which is based on some predefined computational budget which limits the size of the resulting domain search. The survey goes on to give many optimizations and enhancements to the basic MCTS such as bandit-based methods and upper confidence bounds. A conclusion from the survey about MCTS is that it is suited to certain domains and care must be taken when choosing enhancements and variations. One of the final points of the survey is that the authors expect hybrid approaches to MCTS to be used to solve the more challenging problems in AI.
+
+    }
+}
+
+@inproceedings{knowledge,
+	author    = {Daniel Whitehouse and
+	           Peter I. Cowling and
+	           Edward Jack Powley and
+	           Jeff Rollason},
+	title     = {{Integrating Monte Carlo Tree Search with Knowledge-Based Methods to
+	           Create Engaging Play in a Commercial Mobile Game}},
+	booktitle = {Proceedings of the Ninth {AAAI} Conference on Artificial Intelligence
+	           and Interactive Digital Entertainment, AIIDE-13, Boston, Massachusetts,
+	           USA, October 14-18, 2013},
+	year      = {2013},
+	address   = {http://www.aaai.org/ocs/index.php/AIIDE/AIIDE13/paper/view/7369},
+	timestamp = {Tue, 30 Aug 2016 18:50:07 +0200},
+	biburl    = {http://dblp.uni-trier.de/rec/bib/conf/aiide/WhitehouseCPR13},
+	bibsource = {dblp computer science bibliography, http://dblp.org},
+    annote = {
+		\textbf{Aim:} To Investigate how MCTS can be made to seem more natural and act more like a human-player by using the technique of knowledge injection for a commercial version of the card game Spades. \\\\
+		
+		\textbf{Style/Type:} Conference paper, practical application of technique \\\\
+		
+		\textbf{Cross References:} This paper makes reference to the conference paper, Progressive Strategies for Monte-Carlo Tree Search \cite{progressive} where the authors use a similar method to progressive bias to skew the initial search done by their MCTS implementation. In Browne et al. (2012) \cite{survey} applications of MCTS such as many different games are surveyed and this paper justifies the use of MCTS techniques by the previous successes they had in similar domain spaces. \\\\
+		
+		\textbf{Summary:} The goal of the authors is not to maximize the win rate of their AI, but rather to maximize the engagement the AI has with their player base. Spades is a 4-player card game which involves hidden information, multiple rounds and cooperative play. Previous versions of the AI were expert systems which used a large number of heuristics to make game decisions. Their implementation of Spades requires three AIs and one human player. The need for these AIs to appear somewhat human and competent is an important factor in keeping the human player engaged. ISMCTS guesses potential game states and generates a game tree from the statistics of many potential game states by running simulations. Each iteration of the algorithm generates a new tree. The authors found that the injection of heuristic knowledge in MCTS was easier to implement than an expert heuristic system for the card game of Spades. In the implementation of Spades ISMCTS is only used for the decisions involving the cards of a round because the other decisions require looking ahead to future rounds. The approach taken was to bias the initial discovery phase of the MCTS and as the algorithm runs the applied bias tends to zero thereby avoiding the issue of weakening the AIs ability to take the best move for that round. The bias values are derived from existing knowledge. The tendency of the bias to go to zero is enforced during the backpropagation stage when update node values which are biased greater than 1 have their rewards increased whereas bias values less than 1 get reduced rewards.  Testing of the effectiveness of this modification of MCTS was done using AI-versus-AI simulations as well as releasing a beta version to a select group of testers. In conclusion, Whitehouse et al. found that the MCTS chose the wrong move less than 5\% of the tests conducted which is to be expected due to the random nature of the algorithm. Otherwise from inspection of this new AI and surveys about it to the public they found that the AI performed better at seeming to be a natural player than the previous AI implementation.
+    }
+}
+
+@inproceedings{hybrids, 
+	author={H. Baier and M. H. M. Winands}, 
+	booktitle={2013 IEEE Conference on Computational Inteligence in Games (CIG)}, 
+	title={{Monte-Carlo Tree Search and Minimax Hybrids}}, 
+	year={2013}, 
+	pages={1-8}, 
+	keywords={Monte Carlo methods;minimax techniques;tree searching;MCTS-minimax hybrids;Monte-Carlo rollouts;Monte-Carlo tree search;alpha-beta pruning;backpropagation phase;breakthrough;connect-4;depth-limited minimax search;full-width minimax search;minimax searches;rollout phase;sampling-based search algorithm;selection-expansion phase;Backpropagation;Convergence;Game theory;Games;Monte Carlo methods;Planning;Propagation losses}, 
+	doi={10.1109/CIG.2013.6633630}, 
+	ISSN={2325-4270}, 
+	month={Aug},
+}
+
+@incollection{guide,
+	title={{GWENT Guide}},
+	year={2015},
+	pages={1-4},
+	author={{CD PROJEKT S.A., CD PROJEKT RED}},
+	organization={{CD PROJEKT RED}},
+	address={{Poland}}
+}
+
+@inproceedings{wits, 
+	author={{S. James and G.D. Konidaris, and B. Rosman}}, 
+	booktitle={{Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence}}, 
+	title={{An Analysis of Monte Carlo Tree Search}}, 
+	year={2017}
+}
+
+@book{bronson2012c++,
+  title={{C++ Programming: Principles and Practices for Scientists and Engineers}},
+  author={{Bronson, G.J.}},
+  isbn={9781133188612},
+  url={https://books.google.co.uk/books?id=pAxbpwAACAAJ},
+  year={2012},
+  publisher={Cengage Learning}
+}
+
+@Book{parallel,
+  Title                    = {Introduction to High Performance Scientific Computing},
+  Author                   = {{Victor Eijkhout with Robert van de Geijn and Edmond Chow}},
+  Publisher                = {lulu.com},
+  Year                     = {2011},
+  Note                     = {\url{http://www.tacc.utexas.edu/~eijkhout/istc/istc.html}},
+  Abstract                 = {\url{http://www.lulu.com/shop/victor-eijkhout/introduction-to-high-performance-scientific-computing/paperback/product-18783375.html}, also downloadable from \url{http://tinyurl.com/EijkhoutHPC}},
+  ISBN                     = {978-1-257-99254-6}
+}
+
+@inproceedings{MCTS_begin,
+  author = {{Chaslot, Guillaume and Bakkes, Sander and Szita, Istvan and Spronck, Pieter}},
+  biburl = {https://www.bibsonomy.org/bibtex/20f7110ebb9f4fe7ebd1a7646096e2bf5/dblp},
+  booktitle = {AIIDE},
+  crossref = {conf/aiide/2008},
+  editor = {Darken, Christian and Mateas, Michael},
+  ee = {http://www.aaai.org/Library/AIIDE/2008/aiide08-036.php},
+  interhash = {8500f3a4f9b9a5d0d4b294cc1fdfb996},
+  intrahash = {0f7110ebb9f4fe7ebd1a7646096e2bf5},
+  isbn = {978-1-57735-391-1},
+  keywords = {dblp},
+  publisher = {The AAAI Press},
+  timestamp = {2012-12-13T11:42:49.000+0100},
+  title = {{Monte-Carlo Tree Search: A New Framework for Game AI.}},
+  url = {http://dblp.uni-trier.de/db/conf/aiide/aiide2008.html#ChaslotBSS08},
+  year = {2008}
+}

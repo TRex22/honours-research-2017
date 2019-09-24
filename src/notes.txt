@@ -1,0 +1,40 @@
+Data Structures with Abstract Data
+Types by Daniel F. Stubbs and Neil W. Webre, 2nd Ed., Pacific Grove, CA, Brooks/Cole, 1989
+
+
+/* struct that points to the next struct */
+struct node_tag { int datum;
+struct node_tag *next;
+};
+struct node_tag a,b;
+a.next = &b; /* example link-up */
+a.next->next=NULL;
+
+Card Types:
+
+Standard
+decoy
+commander's horn
+Scortch
+Biting Frost
+Imprentrable fog
+torrential rain
+clear weather
+hero card
+medic
+spy
+
+CurrentAttackPoints = new cards vs atpts
+
+RF1 = 0.2*CurrentAttackPoints + 0.8 RoundWin
+RF2 = 0.4*CurrentAttackPoints + 0.6 RoundWin
+RF3 = 0.2*CurrentAttackPoints - 0.2 enemyAttackPoints + 0.6 Round Win
+
+
+some deck changes:
+heros in all three positions for both decks
+bond cards in all three positions for both decks
+
+
+
+Change all finds to lambdas 

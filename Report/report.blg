@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report.aux
+The style file: plain.bst
+Database file #1: biblist.bib
+A bad cross reference---entry "MCTS_begin"
+refers to entry "conf/aiide/2008", which doesn't exist
+Warning--I didn't find a database entry for "conf/aiide/2008"
+Warning--to sort, need author or key in cdp
+Warning--to sort, need author or key in mt
+Warning--empty booktitle in guide
+Warning--empty publisher in guide
+Warning--empty booktitle in AIModern
+You've used 18 entries,
+            2118 wiz_defined-function locations,
+            615 strings with 7370 characters,
+and the built_in function-call counts, 5471 in all, are:
+= -- 526
+> -- 208
+< -- 7
++ -- 84
+- -- 66
+* -- 313
+:= -- 871
+add.period$ -- 57
+call.type$ -- 18
+change.case$ -- 84
+chr.to.int$ -- 0
+cite$ -- 23
+duplicate$ -- 246
+empty$ -- 501
+format.name$ -- 66
+if$ -- 1216
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 15
+newline$ -- 92
+num.names$ -- 34
+pop$ -- 127
+preamble$ -- 1
+purify$ -- 68
+quote$ -- 0
+skip$ -- 178
+stack$ -- 0
+substring$ -- 252
+swap$ -- 61
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 68
+warning$ -- 5
+while$ -- 47
+width$ -- 20
+write$ -- 192
+(There was 1 error message)

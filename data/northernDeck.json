@@ -1,0 +1,364 @@
+{
+	"cards": [
+		{
+			"name": "Avallac'h",
+			"location": "close",
+			"locationId": 0,
+			"type": "hero",
+			"typeId": 10,
+			"attackPoints": 0,
+			"extraCards": 3,
+			"imageLocation": "./data/images/original_cards/neutral/avallach.png"	
+		},
+		{
+			"name": "Philippa Eilhart",
+			"location": "ranged",
+			"locationId": 1,
+			"type": "hero",
+			"typeId": 10,
+			"attackPoints": 10,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/eilhart.png"		
+		},
+		{
+			"name": "Triss Merigold",
+			"location": "siege",
+			"locationId": 2,
+			"type": "hero",
+			"typeId": 10,
+			"attackPoints": 7,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/triss.png"
+		},
+		{
+			"name": "Cirilla Fiona Elen Riannon",
+			"location": "close",
+			"locationId": 0,
+			"type": "hero",
+			"typeId": 10,
+			"attackPoints": 15,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/ciri.png"
+		},
+		{
+			"name": "Geralt of Rivia",
+			"location": "close",
+			"locationId": 0,
+			"type": "hero",
+			"typeId": 10,
+			"attackPoints": 15,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/geralt.png"
+		},
+		{
+			"name": "Yennefer of Vengerberg",
+			"location": "ranged",
+			"locationId": 1,
+			"type": "medic/hero",
+			"typeId": 7,
+			"attackPoints": 7,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/yen.png"
+		},
+		{
+			"name": "Esterad Thyssen",
+			"location": "close",
+			"locationId": 0,
+			"type": "hero",
+			"typeId": 10,
+			"attackPoints": 10,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/thyssen.png"
+		},
+		{
+			"name": "Vernon Roche",
+			"location": "close",
+			"locationId": 0,
+			"type": "hero",
+			"typeId": 10,
+			"attackPoints": 10,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/roche.png"
+		},
+		{
+			"name": "John Natalis",
+			"location": "close",
+			"locationId": 0,
+			"type": "hero",
+			"typeId": 10,
+			"attackPoints": 10,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/natalis.png"
+		},
+		{
+			"name": "Thaler",
+			"location": "siege",
+			"locationId": 2,
+			"type": "spy",
+			"typeId": 9,
+			"attackPoints": 1,
+			"extraCards": 3,
+			"imageLocation": "./data/images/original_cards/northern/thaler.png"
+		},
+		{
+			"name": "Sigismund Dijkstra",
+			"location": "close",
+			"locationId": 0,
+			"type": "spy",
+			"typeId": 9,
+			"attackPoints": 4,
+			"extraCards": 3,
+			"imageLocation": "./data/images/original_cards/northern/dijkstra.png"
+		},
+		{
+			"name": "Prince Stennis",
+			"location": "close",
+			"locationId": 0,
+			"type": "spy",
+			"typeId": 9,
+			"attackPoints": 5,
+			"extraCards": 3,
+			"imageLocation": "./data/images/original_cards/northern/stennis.png"
+		},
+		{
+			"name": "Dandelion",
+			"location": "close",
+			"locationId": 0,
+			"type": "horn",
+			"typeId": 1,
+			"attackPoints": 2,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/dandelion.png"
+		},
+		{
+			"name": "Zoltan Chivay",
+			"location": "close",
+			"locationId": 0,
+			"type": "unit",
+			"typeId": 0,
+			"attackPoints": 5,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/zoltan.png"
+		},
+		{
+			"name": "Dun Banner Medic",
+			"location": "siege",
+			"locationId": 2,
+			"type": "medic",
+			"typeId": 7,
+			"attackPoints": 5,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/medic.png"
+		},
+		{
+			"name": "Vesemir",
+			"location": "close",
+			"locationId": 0,
+			"type": "unit",
+			"typeId": 0,
+			"attackPoints": 6,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/vesemir.png"
+		},
+		{
+			"name": "Ves",
+			"location": "close",
+			"locationId": 0,
+			"type": "close",
+			"typeId": 0,
+			"attackPoints": 5,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/ves.png"			
+		},
+		{
+			"name": "Villentretenmerth",
+			"location": "close",
+			"locationId": 0,
+			"type": "hero",
+			"typeId": 2,
+			"attackPoints": 7,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/villentretenmerth.png"
+		},
+		{
+			"name": "Blue Stripes Commando",
+			"location": "close",
+			"locationId": 0,
+			"type": "bond",
+			"typeId": 11,
+			"attackPoints": 4,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/commando.png"
+		},
+		{
+			"name": "Blue Stripes Commando",
+			"location": "close",
+			"locationId": 0,
+			"type": "bond",
+			"typeId": 11,
+			"attackPoints": 4,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/commando.png"
+		},
+		{
+			"name": "Blue Stripes Commando",
+			"location": "close",
+			"locationId": 0,
+			"type": "bond",
+			"typeId": 11,
+			"attackPoints": 4,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/commando.png"
+		},
+		{
+			"name": "Crinfrid Reavers Dragon Hunter",
+			"location": "ranged",
+			"locationId": 1,
+			"type": "bond",
+			"typeId": 11,
+			"attackPoints": 5,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/crinfrid.png"
+		},
+		{
+			"name": "Crinfrid Reavers Dragon Hunter",
+			"location": "ranged",
+			"locationId": 1,
+			"type": "bond",
+			"typeId": 11,
+			"attackPoints": 5,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/crinfrid.png"
+		},
+		{
+			"name": "Crinfrid Reavers Dragon Hunter",
+			"location": "ranged",
+			"locationId": 1,
+			"type": "bond",
+			"typeId": 11,
+			"attackPoints": 5,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/crinfrid.png"
+		},
+		{
+			"name": "Keira Metz",
+			"location": "ranged",
+			"locationId": 1,
+			"type": "unit",
+			"typeId": 0,
+			"attackPoints": 5,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/keira.png"
+		},
+		{
+			"name": "Catapult",
+			"location": "siege",
+			"locationId": 2,
+			"type": "bond",
+			"typeId": 11,
+			"attackPoints": 8,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/catapult.png"
+		},
+		{
+			"name": "Catapult",
+			"location": "siege",
+			"locationId": 2,
+			"type": "bond",
+			"typeId": 11,
+			"attackPoints": 8,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/catapult.png"
+		},
+		{
+			"name": "Siegfried of Denesle",
+			"location": "close",
+			"locationId": 0,
+			"type": "unit",
+			"typeId": 0,
+			"attackPoints": 5,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/siegfried.png"
+		},
+		{
+			"name": "Trebuchet",
+			"location": "siege",
+			"locationId": 2,
+			"type": "unit",
+			"typeId": 0,
+			"attackPoints": 6,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/trebuchet1.png"
+		},
+		{
+			"name": "Trebuchet",
+			"location": "siege",
+			"locationId": 2,
+			"type": "unit",
+			"typeId": 0,
+			"attackPoints": 6,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/northern/trebuchet2.png"
+		},
+		{
+			"name": "Biting Frost",
+			"location": "close",
+			"locationId": 0,
+			"type": "frost",
+			"typeId": 3,
+			"attackPoints": 0,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/frost.png"
+		},
+		{
+			"name": "Commander's Horn",
+			"location": "agile",
+			"locationId": -1,
+			"type": "horn",
+			"typeId": 1,
+			"attackPoints": 0,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/horn.png"
+		},
+		{
+			"name": "Commander's Horn",
+			"location": "agile",
+			"locationId": -1,
+			"type": "horn",
+			"typeId": 1,
+			"attackPoints": 0,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/horn.png"
+		},
+		{
+			"name": "Clear Weather",
+			"location": "agile",
+			"locationId": -1,
+			"type": "clear",
+			"typeId": 6,
+			"attackPoints": 0,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/clear.png"
+		},
+		{
+			"name": "Impenetrable Fog",
+			"location": "ranged",
+			"locationId": 1,
+			"type": "fog",
+			"typeId": 4,
+			"attackPoints": 0,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/fog.png"
+		},
+		{
+			"name": "Torrential Rain",
+			"location": "siege",
+			"locationId": 2,
+			"type": "rain",
+			"typeId": 5,
+			"attackPoints": 0,
+			"extraCards": 0,
+			"imageLocation": "./data/images/original_cards/neutral/rain.png"
+		}
+	]
+}

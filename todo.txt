@@ -1,0 +1,7 @@
+Fix spy
+Fix nilf duplicates
+weather extra / weird
+
+bash script
+compile a few versions
+select tex

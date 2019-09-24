@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Problem Domain: The Card Game Gwent}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Aim of Research}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Expected Results}{4}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Structure of Proposal}{4}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Conclusion}{4}{subsection.1.5}
+\contentsline {section}{\numberline {2}Background and Related Research}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Introduction}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}The Rules of Gwent}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Literature Review}{5}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}AI Tree Searches}{5}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Tree Pruning}{5}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Minimax Algorithm}{6}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}Alpha-Beta Pruning}{6}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5}Other Modifications to Minimax}{7}{subsubsection.2.3.5}
+\contentsline {subsubsection}{\numberline {2.3.6}Monte-Carlo Tree Search Algorithm}{7}{subsubsection.2.3.6}
+\contentsline {subsubsection}{\numberline {2.3.7}The Use of Expanded Techniques with MCTS}{8}{subsubsection.2.3.7}
+\contentsline {subsubsection}{\numberline {2.3.8}The Idea of Hybrid Tree Searches}{10}{subsubsection.2.3.8}
+\contentsline {subsubsection}{\numberline {2.3.9}Testing Methodologies}{11}{subsubsection.2.3.9}
+\contentsline {subsection}{\numberline {2.4}Conclusion}{11}{subsection.2.4}
+\contentsline {section}{\numberline {3}Research Methodology}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Introduction}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Hypothesis}{11}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Motivation}{11}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Restrictions Placed on the Domain}{12}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Experimental Method}{12}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Implementation}{13}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Conclusion}{13}{subsection.3.6}
+\contentsline {section}{\numberline {4}Research Plan}{13}{section.4}
+\contentsline {subsection}{\numberline {4.1}Introduction}{13}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Risks}{13}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Deliverables}{14}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Measures of Success}{14}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Time Plan}{15}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Conclusion}{15}{subsection.4.6}
+\contentsline {section}{\numberline {5}Conclusion}{16}{section.5}

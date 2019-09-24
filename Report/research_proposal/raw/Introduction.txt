@@ -1,0 +1,20 @@
+Introduction
+============
+
+
+Problem Domain: The Card Game Gwent
+-----------------------------------
+
+
+Restrictions on Domain
+----------------------
+
+
+General Assumptions
+-------------------
+
+
+
+Glossary Of Terms
+-----------------
+

@@ -1,0 +1,79 @@
+\begin{thebibliography}{10}
+
+\bibitem{hybrids}
+H.~Baier and M.~H.~M. Winands.
+\newblock {Monte-Carlo Tree Search and Minimax Hybrids}.
+\newblock In {\em 2013 IEEE Conference on Computational Inteligence in Games
+  (CIG)}, pages 1--8, Aug 2013.
+
+\bibitem{bronson2012c++}
+{Bronson, G.J.}
+\newblock {\em {C++ Programming: Principles and Practices for Scientists and
+  Engineers}}.
+\newblock Cengage Learning, 2012.
+
+\bibitem{survey}
+C.~B. Browne, E.~Powley, D.~Whitehouse, S.~M. Lucas, P.~I. Cowling,
+  P.~Rohlfshagen, S.~Tavener, D.~Perez, S.~Samothrakis, and S.~Colton.
+\newblock {A Survey of Monte Carlo Tree Search Methods}.
+\newblock {\em IEEE Transactions on Computational Intelligence and AI in
+  Games}, 4(1):1--43, March 2012.
+
+\bibitem{guide}
+{CD PROJEKT S.A., CD PROJEKT RED}.
+\newblock {GWENT Guide}.
+\newblock pages 1--4. {Poland}, 2015.
+
+\bibitem{MCTS_begin}
+{Chaslot, Guillaume and Bakkes, Sander and Szita, Istvan and Spronck, Pieter}.
+\newblock {Monte-Carlo Tree Search: A New Framework for Game AI.}
+\newblock In Christian Darken and Michael Mateas, editors, {\em AIIDE}. The
+  AAAI Press, 2008.
+
+\bibitem{progressive}
+{Chaslot, Guillaume M. J-B. and Winands, Mark H. M. and van Den Herik, H. Jaap
+  and Uiterwijk, Jos W. H. M. and Bouzy, Bruno}.
+\newblock {Progressive Strategies for Monte-Carlo Tree Search}.
+\newblock {\em {New Mathematics and Natural Computation (NMNC)}},
+  04(03):343--357, 2008.
+
+\bibitem{AIM030}
+D.J. Edwards and T.P. Hart.
+\newblock {The Alpha-Beta Heuristic}.
+\newblock Technical Report AIM-30, Massachusetts Institute of Technology,
+  {http://hdl.handle.net/1721.1/6098}, 1961.
+
+\bibitem{bandit}
+{Kocsis, Levente and Szepesv\'{a}ri, Csaba}.
+\newblock {Bandit Based Monte-Carlo Planning}.
+\newblock In {\em Proceedings of the 17th European Conference on Machine
+  Learning}, ECML'06, pages 282--293. Springer-Verlag, 2006.
+
+\bibitem{AIModern}
+Stuart Russell and Peter Norvig.
+\newblock {Artificial Intelligence: A Modern Approach (3rd Edition)}.
+\newblock chapter~5, pages "161--189". Pearson,
+  https://www.amazon.com/gp/product/0136042597, 2009.
+
+\bibitem{wits}
+{S. James and G.D. Konidaris, and B. Rosman}.
+\newblock {An Analysis of Monte Carlo Tree Search}.
+\newblock In {\em {Proceedings of the Thirty-First AAAI Conference on
+  Artificial Intelligence}}, 2017.
+
+\bibitem{parallel}
+{Victor Eijkhout with Robert van de Geijn and Edmond Chow}.
+\newblock {\em Introduction to High Performance Scientific Computing}.
+\newblock lulu.com, 2011.
+\newblock \url{http://www.tacc.utexas.edu/~eijkhout/istc/istc.html}.
+
+\bibitem{knowledge}
+Daniel Whitehouse, Peter~I. Cowling, Edward~Jack Powley, and Jeff Rollason.
+\newblock {Integrating Monte Carlo Tree Search with Knowledge-Based Methods to
+  Create Engaging Play in a Commercial Mobile Game}.
+\newblock In {\em Proceedings of the Ninth {AAAI} Conference on Artificial
+  Intelligence and Interactive Digital Entertainment, AIIDE-13, Boston,
+  Massachusetts, USA, October 14-18, 2013},
+  http://www.aaai.org/ocs/index.php/AIIDE/AIIDE13/paper/view/7369, 2013.
+
+\end{thebibliography}
